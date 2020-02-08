@@ -1,0 +1,1776 @@
+﻿<texts>
+	<t id="ia_names">Arvid|Asger|Audun|Balder|Bard|Bjorn|Brandt|Canute|Colby|Corey|Einar|Eirik|Erling|Fiske|Floki|Frey|Garth|Gunnar|Halstein|Haxe|Holger|Ivar|Jerrik|Keld|Knud|Lamont|Leif|Olaf|Olsen|Stein|Sven|Thorsen|Torvalds|Vidar|Hindaorf|Brynhild|Freydis|Gunnhild|Ranveig|Siv|Torunn|Vigdis|Harald|Magnus|Ulf</t>
+	<t id="men_names">Diarf|Gils|Thorvid|Ref|Hreidar|Rodmar|Jarn|Jarnseggid|Balli|Aron|Asgaut|Agram|Valandr|Sebashdian|Orrin|Brihoc|Broddi|Gardi|Ingimar|Bui|Thorlak|Arn|Bragi|Frodi|Floki|Ordr|Thorson|Slothi|Gnuppi|Suit|Wary|Ottar|Iarung|Iarund|Kalf|Throst|Ingi|Erp|Saxi|Valgard|Hreitar|Hallmund|Alfgeir|Solvi|Sigvhat|Gudvaer|Vandil|Snajbjorn|Thorred|Aslak|Arni|Ketil|Ingemar|Engil|Jomar|Anund|Thidrik|Geiterik|Haf|Bretakollr|Beinir|Steinhoff|Bjarko|Kori|Guthork|Skegg|Skopti|Sigfus|Bersi|Ham|Audun|Hrilfa|Arnvild|Arnid|Gudrod|Snorri|Ainrif|Ragnar|Veleif|Iric|Ongul|Hjord|Sighaerd|Audbjorn|Gamli|Thjodsoff|Sigehelm|Geirmund|Grimolf|Sigfast|Iorth|Skuli|Rodmar|Lopt|Bragi|Gaethir|Gunnleif|Orok|Orokia|Kaetilfast|Sigeferst|Hoskuld|Mursi|Thorberg|Odinkar|Styr|Olae|Grimolf|Grim|Gaut|Grimlof|Thorgauf|Skopti|Oybiorn|Bork|Ingvar|Skuld|Kotkell|Sketill|Knutr|Steinktill|Frodi|Bard|Orn|Käre|Osvald|Ivar|Alvi|Lodin|Geri|Bjarni|Kveldulf|Auti|Koptmann|Skuff|Thorfst|Hagi|Haeng|Guthere|Vekel|Orest|Mord|Ulfik|Gils|Alti|Steintor|Firthgeist|Vigbjorg|Torsten|Fugr|Krout|Nikhu|Hemak|Sakkam</t>
+	<t id="women_names">Asa|Ormhild|Jodis|Gyrid|Gaeielaug|Jolfrid|Flokser|Ranveig|Ljufu|Thorve|Torgärd|Jarngerd|Hungerd|Ginnlaug|Freydis|Arnkalta|Gudney|Asny|Salbjorg|Gudfrid|Tofa|Frida|Hallberta|Yri|Asa|Thora|Bothild|Melkorka|Aestrid|Siv|Liv|Borgild|Dotta|Skulk|Hallbera|Gunnvar|Meid|Hilde|Freygerd|Gerrid|Odindis|Oddbjord|Ragneid|Signy|Estrid|Hrefna|Malkorka|Saeunn|Ashild|Grelod|Turid|Gudny|Svala|Sala|Ragnhild|Thras|Thrasla|Inga|Vigdis|Kadlin|Luda|Luta|Lusa|Lura|Geirny|Isgerd|Inga|Tonna|Ingunn|Brynhild|Svanhild|Vigdis|Herkja|Gyrd|Gyrid|Geirny|Shaton|Gro|Olof|Ingegärd|Hervar|Hervor|Frifgerd|Fridgard|Fridal|Fridoh|Toffa|Freide|Frideburg|Osk|Oskmaer|Oski|Oska|Oskku|Malthilda|Matild|Herkja|Drifa|Asfrida|Inggrid|Ingridd|Asfny|Steinnun|Steinunn|Ingeltore|Abi|Abbi|Abbnis|Abisth|Holmfrid|Yri|Jofrid|Nodbiorg|Nibdjorg|Gudny|Gubny</t>
+	<t id="soon">곧 공개...</t>
+	<t id="flavor_quote">- "::text::"</t>
+	<t id="unknown_clan">알려지지 않음</t>
+	<t id="random">랜덤</t>
+	<t id="months">1월|2월|3월|4월|5월|6월|7월|8월|9월|10월|11월|12월</t>
+	<t id="months_short">1월|2월|3월|4월|5월|6월|7월|8월|9월|10월|11월|12월</t>
+	<t id="date">::year:: 년 - ::month::</t>
+	<t id="dateCampaign">::year:: 년 - ::month::</t>
+	<g id="titles">
+		<t id="population">인구</t>
+		<t id="civilians">민간인</t>
+		<t id="slaves">노예</t>
+		<t id="warband">전투원</t>
+		<t id="allies">동맹</t>
+		<t id="buildings">건물</t>
+		<t id="standard">기본</t>
+		<t id="military">군사</t>
+		<t id="advanced">특수</t>
+	</g>
+	<g id="great_trade_route_names">
+		<t id="Small">고향</t>
+		<t id="Medium">미클라가르드</t>
+		<t id="Big">빈랜드</t>
+		<t id="RelicCup">브라가풀</t>
+	</g>
+	<g id="victories">
+		<t id="all">전체</t>
+		<t id="domination_only">지배 전용</t>
+		<g id="military">
+			<t id="title">정복</t>
+			<t id="desc">적 플레이어들의 <font color="#R">타운홀</font>을 모두 파괴하고 노스가드의 지배자가 되십시오.</t>
+		</g>
+		<g id="lore">
+			<t id="title">지혜</t>
+			<t id="desc">고대의 지식을 습득하고 <font color="#R">노스가드에서 가장 현명한 지도자</font>가 되십시오.</t>
+		</g>
+		<g id="yggdrasil">
+			<t id="title">위그드라실</t>
+			<t id="desc">세계수 <font color="#R">위그드라실</font>을 점령하십시오.</t>
+		</g>
+		<g id="helheim">
+			<t id="title">헬헤임</t>
+			<t id="desc"><font color="#R">헬헤임의 관문</font>을 점령하고, 이를 [Valkyrie]의 공격으로부터 지켜내십시오.</t>
+		</g>
+		<g id="money">
+			<t id="title">교역</t>
+			<t id="desc">부를 쌓아 노스가드에서 <font color="#R">가장 위대한 상인</font>이 되십시오.</t>
+		</g>
+		<g id="fame">
+			<t id="title">명성</t>
+			<t id="desc">[Territory]를 넓히고 [Fame]을 드높여 <font color="#R">왕</font>의 칭호를 얻으십시오.</t>
+		</g>
+		<g id="fameWithoutTerritory">
+			<t id="title">명성</t>
+			<t id="desc">[Fame]을 드높여 <font color="#R">왕</font>의 칭호를 얻으십시오.</t>
+		</g>
+		<g id="loresword">
+			<t id="title">신의 지혜</t>
+			<t id="desc">가장 현명한 대 족장이 되십시오. 4 가지 지식 축복을 받을 자격이 있고 [BigSword]를 제어하여 에픽 로어 승리를 달성하십시오.</t>
+		</g>
+		<g id="odinsword">
+			<t id="title">오딘의 검</t>
+			<t id="desc">신의 모루를 점령하고 [Iron]을 이용해 오딘의 검을 제작하십시오.</t>
+		</g>
+		<g id="campaign">
+			<t id="title">스토리 모드</t>
+		</g>
+		<g id="killlichking">
+			<t id="title">[LichKing] 제거</t>
+			<t id="desc">동맹을 이끌어 [LichKing]을 제거하십시오.</t>
+		</g>
+		<g id="surviveyears">
+			<t id="title">생존</t>
+			<t id="desc">::date::까지 생존하십시오</t>
+		</g>
+		<g id="bestfame">
+			<t id="title">영광</t>
+			<t id="desc">::date::까지 최고의 명성에 도달하십시오.</t>
+		</g>
+		<g id="colonizeall">
+			<t id="title">침략 방어</t>
+			<t id="desc">4년 내에 모든 [Helheim]을 정복하십시오.</t>
+		</g>
+		<g id="bifrost">
+			<t id="title">바이프로스트 활성화</t>
+			<t id="desc">::date::까지 바이프로스트를 활성화 하십시오.</t>
+		</g>
+		<g id="killgiants">
+			<t id="title">[Giant] 슬레이어</t>
+			<t id="desc">[Giant]와 [GiantFire]를 ::nb:: 제거하십시오.</t>
+		</g>
+		<g id="killwyverns">
+			<t id="title">몬스터 마스터</t>
+			<t id="desc">[Wyvern]을 ::nb:: 제거하십시오.</t>
+		</g>
+		<g id="defendjotnar">
+			<t id="title">[Giant]의 친구</t>
+			<t id="desc">[Giant]을 방어하고 동맹을 유지하십시오.</t>
+		</g>
+		<g id="defendaially">
+			<t id="title">따뜻한 보호</t>
+			<t id="desc">어떤 댓가를 치르던 약한 아군을 적으로부터 보호하십시오.</t>
+		</g>
+		<g id="killgiantboar">
+			<t id="title">에픽 트로피</t>
+			<t id="desc">[GiantBoar]를 가장 먼저 찾아 제거하십시오.</t>
+		</g>
+		<g id="helheimcontrol">
+			<t id="title">헬하임 침공</t>
+			<t id="desc">모든 [Helheim]을 제어하여 침공을 막으십시오.</t>
+		</g>
+		<g id="any">
+			<t id="title">일반 승리</t>
+			<t id="desc">아무 승리 달성: 점령, 명성, 무역, 기술.</t>
+		</g>
+		<g id="famealt">
+			<t id="title">명성</t>
+			<t id="desc">[Fame]을 높여 <font color="#R">왕</font>칭호를 획득하십시오.</t>
+		</g>
+		<t id="progress"><font color="::color::">::v::/::max::</font></t>
+		<t id="areas_controlled">::p:: 지역 통제중</t>
+		<t id="fame_collected">::p:: 명성 획득</t>
+		<t id="lore_collected">::p:: 학문 획득</t>
+		<t id="built_hall">왕의 제단 건설</t>
+		<t id="produced_money">::p:: 크라운 수집</t>
+		<t id="built_lighthouse">등대 건설</t>
+		<t id="total_prestige">::p:: 상업 영향력</t>
+		<t id="money_stock">::p:: 크라운 재고</t>
+		<t id="blessings">::p:: 신들의 축복</t>
+		<t id="defeated_players">::p:: 부족 파괴</t>
+		<t id="found_odinsword">신의 모루 점령</t>
+		<t id="forged_parts">::p:: 검의 부품 단조</t>
+		<t id="found_ygg">위그드라실 발견</t>
+		<t id="colonize_ygg">위그드라실 점령</t>
+		<t id="found_bigsword">[BigSword] 탐사</t>
+		<t id="colonize_bigsword">[BigSword] 점령</t>
+		<t id="protect_giants">요트나르를 물리치면 안됨.</t>
+		<t id="befriend_giants">::p:: 동맹.</t>
+		<t id="found_hel">헬헤임 발견</t>
+		<t id="colonize_hel">헬헤임 점령</t>
+		<t id="timer_hel">::p::달 동안 통제 중</t>
+		<t id="survive_time">::p:: 년까지 생존</t>
+		<t id="kill_king">[LichKing] 제거</t>
+		<t id="col_bifrost">[BifrostLore] 점령</t>
+		<t id="nb_giant_killed">::p:: 요트나 제거됨</t>
+		<t id="nb_wyvern_killed">::p:: 와이번 제거됨</t>
+		<t id="timed_helheim">801 이후 매년 추가 게이트를 제어하십시오.</t>
+		<t id="timed_helheim_coop">801 이후 6 개월마다 추가 게이트를 제어하십시오.</t>
+		<t id="controlled_helheim">::p:: [Helheim] under your control.</t>
+		<t id="protect_ally"><font color="::color::">::name::</font> must survive.</t>
+		<t id="protect_for_time">::p:: years remaining to protect your ally.</t>
+		<t id="kill_giantboar">Kill the Giant Boar</t>
+     	<t id="you">나</t>
+		<t id="no_fame_vict">당신의 부족은 이 승리를 달성할 수 없습니다</t>
+		<t id="unknown_player">알려지지 않은 부족</t>
+		<t id="player"><font color="::color::">::name::</font>의 ::clan:: 부족</t>
+		<t id="title">승리 조건</t>
+	</g>
+	<g id="buttons">
+		<t id="build">건설 <font color="#T" opacity="0.5">[::hotkey::]</font> </t>
+		<t id="buy_drakkar"><img src="/r/Wood"/>::cost::로 롱쉽을 만듭니다</t>
+		<t id="start_raid">항해 시작</t>
+		<t id="resume_raid">항해 재개</t>
+		<t id="stop_raid">항해 중단</t>
+		<t id="choose_trade_road">교역 시작</t>
+		<t id="change_trade_road">교역로 변경</t>
+		<t id="upgrade_building">업그레이드</t>
+		<t id="unlock_great_route">위대한 항로 해금</t>
+		<t id="colonize"><img src="/r/::r::"/><font color="::color::">::cost::</font>으로 점령</t>
+		<t id="cantColonize">점령 불가</t>
+		<t id="cancel_colonize">점령 취소</t>
+		<t id="improve_tools"><img src="/r/Iron"/>도구 개선</t>
+		<t id="forge_start"><img src="/r/Forge"/>단조</t>
+		<t id="sacrifice">도축</t>
+		<t id="organize_feast">축제 개최</t>
+		<t id="feasting">축제 중...</t>
+		<t id="ally_feasting">당신의 동맹은 축제중입니다...</t>
+		<t id="retreat"><img src="/i/Retreat"/>후퇴</t>
+		<t id="manage_port"><img src="/r/Sailors"/>항구 관리</t>
+		<t id="transfer_zone"><img src="/i/TransferZone"/>지역 양도</t>
+		<t id="claim_zone"><img src="/i/ClaimZone"/>지역 요청</t>
+		<t id="defense_on">수비</t>
+		<t id="defense_off">자동</t>
+		<t id="upgrade_zone">지역 개발</t>
+		<t id="upgrade_free_zone"><font color="#G">지역 개발 (::numFree::)</font></t>
+		<t id="rally_warchief">집결</t>
+		<t id="spawn_bear">소환</t>
+		<t id="show_statistics">통계보기</t>
+	</g>
+	<g id="help">
+		<t id="zone_to_explore">이 지역은 아직 탐사되지 않았습니다. 먼저 [Scout]을 보내십시오.</t>
+		<t id="ruins_explored">이 유적은 이미 탐사되었습니다.</t>
+		<t id="wreck_scavenged">이 난파선은 이미 수색되었습니다.</t>
+		<t id="brokenHouse_visited">이 폐가는 이미 수색되었습니다.</t>
+		<t id="win_res_faction">이 팩션을 섬멸하면 ::resList::을 얻습니다.</t>
+		<t id="win_res">이 지역을 점령하면 ::resList::을 얻습니다.</t>
+		<t id="kill_fame">와이번을 죽이면 ::resList::를 얻습니다.</t>
+		<t id="forge_desc"><img src="/r/::res::"/><font color="::color::">::count::</font>을 사용하여 오딘의 검의 ::part::을(를) 단조합니다.</t>
+		<t id="forge_count">::nb:: 완료</t>
+		<g id="sword_parts">
+			<t _id="hilt">자루</t>
+			<t _id="guard">날밑</t>
+			<t _id="blade">칼날</t>
+		</g>
+		<t id="forge_progress">::part:: 단조 중 (::p::%)</t>
+		<t id="giants_progress">거인 우호도 (::p::%)</t>
+		<t id="myrk_progress">미르칼파 우호도 (::p::%)</t>
+		<t id="vedrfolnir_progress">베드르폴니르 떠나기까지 (::p::%)</t>
+		<g id="victories">
+			<t id="yggdrasil">이 지역을 점령하고 노스가드의 수호자가 되어 승리하십시오!</t>
+			<t id="helheim">헬헤임의 관문을 점령하고 침공으로부터 지켜내어 승리하십시오!</t>
+			<t id="magmaflow">이 지역에 대장간을 건설하고 오딘의 검을 제작해 승리하십시오!</t>
+		</g>
+		<t id="horse_deposit_stone_desc">[Stone]을 추출하기 위해 [Warchief]를 지정하십시오.</t>
+		<t id="horse_deposit_iron_desc">[Iron]을 추출하기 위해 [Warchief]를 지정하십시오.</t>
+		<t id="horse_deposit_rimesteel_desc">[Rimesteel]을 추출하기 위해 [Warchief]를 지정하십시오.</t>
+		<t id="horse_deposit_gemstone_desc">[Gemstone]을 추출하기 위해 [Warchief]를 지정하십시오.</t>
+		<t id="horse_anvil_of_gods">[Rimesteel]을 추출하기 위해 [Warchief]를 지정하십시오.</t>
+	</g>
+	<g id="ui">
+		<g id="menu">
+			<t id="save">게임 저장</t>
+			<t id="play">게임으로 돌아가기</t>
+			<t id="return_map">나가기</t>
+			<t id="options">설정</t>
+			<t id="return_title">메인메뉴로 나가기</t>
+			<t id="concede">패배를 인정하기</t>
+			<t id="continue_game">계속하기</t>
+			<t id="continue_campaign">이어하기</t>
+			<t id="retry_campaign">재시작</t>
+			<t id="watch_game">게임 계속 보기</t>
+			<t id="clan_select">부족 선택</t>
+			<t id="back">뒤로</t>
+			<t id="game_pause">일시 정지</t>
+			<t id="game_unpause">게임 재개</t>
+			<t id="show_victory_conditions">승리 조건 보기</t>
+			<t id="campaign_lore">스토리 다시보기</t>
+			<t id="campaign_load">불러오기</t>
+		</g>
+		<g id="profile">
+			<t id="title">플레이어 프로필</t>
+			<t id="overall">종합 진행률</t>
+			<g id="rank_titles">
+				<t _id="villager">주민</t>
+				<t _id="warrior">전사</t>
+				<t _id="warchief">워치프</t>
+				<t _id="thane">테인</t>
+				<t _id="jarl">야를</t>
+				<t _id="king">왕</t>
+				<t _id="highking">제왕</t>
+				<t _id="norsegod">노스갓</t>
+			</g>
+			<t id="games_won">승리한 게임: ::value::</t>
+			<t id="next_rank">다음 랭크: ::value::</t>
+			<t id="clan">부족별 전적</t>
+			<t id="clan_won_conquest_tip">이 부족으로 정복을 완료하였습니다.</t>
+			<t id="clan_win">::win:: 게임 승리 <font color="#T" opacity="0.5">(::played:: 번 플레이)</font></t>
+			<t id="clan_won">::win:: 게임 승리 <font color="#T" opacity="0.5">(::played:: 번 플레이)</font></t>
+			<t id="stats_bears">죽인 곰: ::count::</t>
+			<t id="stats_houses">건설한 집: ::count::</t>
+			<t id="stats_killed">잃은 주민: ::count::</t>
+			<t id="stats_feasts">축제를 터뜨린 횟수: ::count::</t>
+			<t id="stats_story_mode">스토리 모드</t>
+			<t id="stats_story_completed">모든 난이도에서 챕터 완료: ::count::/::total::</t>
+			<t id="stats_story_completed_hard">극악 난이도에서 챕터 완료: ::count::/::total::</t>
+			<t id="stats_story_objectives">부가 목표 달성: ::count::/::total::</t>
+		</g>
+		<g id="options">
+			<t id="title">설정</t>
+			<t id="apply">변경 적용</t>
+			<g id="controls">
+				<t id="title">컨트롤</t>
+				<g id="a">
+					<t id="title">시점 위로 이동</t>
+					<t id="key1">W</t>
+					<t id="key2">Up</t>
+				</g>
+				<g id="b">
+					<t id="title">시점 왼쪽으로 이동</t>
+					<t id="key1">A</t>
+					<t id="key2">Left</t>
+				</g>
+				<g id="c">
+					<t id="title">시점 아래로 이동</t>
+					<t id="key1">S</t>
+					<t id="key2">Down</t>
+				</g>
+				<g id="d">
+					<t id="title">시점 오른쪽으로 이동</t>
+					<t id="key1">D</t>
+					<t id="key2">Right</t>
+				</g>
+				<g id="e">
+					<t id="title">건설</t>
+					<t id="key1">B</t>
+				</g>
+				<g id="f">
+					<t id="title">로어</t>
+					<t id="key1">L</t>
+				</g>
+				<g id="g">
+					<t id="title">일시 정지</t>
+					<t id="key1">P</t>
+				</g>
+				<g id="h">
+					<t id="title">승리 조건</t>
+					<t id="key1">V</t>
+				</g>
+				<g id="i">
+					<t id="title">알림 보기</t>
+					<t id="key1">Space</t>
+				</g>
+				<g id="j">
+					<t id="title">미니맵 디스플레이 유형</t>
+					<t id="key1">T</t>
+				</g>
+				<g id="k">
+					<t id="title">세부 정보 보기</t>
+					<t id="key1">I</t>
+				</g>
+				<g id="l">
+					<t id="title">건설 시 방향 전환</t>
+					<t id="key1">F</t>
+				</g>
+				<g id="m">
+					<t id="title">개체 순환</t>
+					<t id="key1">Tab</t>
+				</g>
+				<g id="n">
+					<t id="title">맵 핑 (팀)</t>
+					<t id="key1">Alt</t>
+				</g>
+				<g id="o">
+					<t id="title">타운홀로 시점 이동</t>
+					<t id="key1">Backspace</t>
+				</g>
+				<g id="p">
+					<t id="title">유닛 단수 명령</t>
+					<t id="key1">Ctrl (hold)</t>
+				</g>
+				<g id="q">
+					<t id="title">전투원 전체 선택</t>
+					<t id="key1">E</t>
+				</g>
+				<g id="r">
+					<t id="title">활동 중단된 일꾼 선택</t>
+					<t id="key1">U</t>
+				</g>
+				<g id="s">
+					<t id="title">모든 주민 선택</t>
+					<t id="key1">G</t>
+				</g>
+				<g id="t">
+					<t id="title">모든 정찰병 선택</t>
+					<t id="key1">H</t>
+				</g>
+				<g id="u">
+					<t id="title">채팅</t>
+					<t id="key1">Enter</t>
+				</g>
+				<g id="v">
+					<t id="title">명령 취소</t>
+					<t id="key1">X</t>
+				</g>
+				<g id="w">
+					<t id="title">군사 정책</t>
+					<t id="key1">M</t>
+				</g>
+				<g id="y">
+					<t id="title">와드 특성</t>
+					<t id="key1">Y</t>
+				</g>
+			</g>
+			<g id="game">
+				<t id="title">게임</t>
+				<t id="scroll_speed">화면 이동속도</t>
+				<t id="enable_tuto">도움말 켜기</t>
+				<t id="enable_profanity_filter">비속어 필터 켜기</t>
+				<t id="enable_borderscroll">화면 테두리 이동 사용</t>
+				<t id="enable_softcursors">소프트웨어 커서 사용</t>
+				<t id="enable_softcursors_tooltip">운영 체제 대신 게임 엔진으로 커서를 렌더링. 응답 시간을 줄이면서 성능을 향상시킵니다.</t>
+				<t id="lang">언어</t>
+				<t id="use_campaign_hero">스토리모드 워치프 사용</t>
+				<t id="use_conquest_townhall">정복 모드에서 잠금 해제 된 특수 타운 홀 사용</t>
+			</g>
+			<g id="graphics">
+				<t id="title">그래픽</t>
+				<t id="sao">SSAO</t>
+				<t id="sao_tooltip"><font color="#FFFFFF">스크린 공간 주변 폐색,</font>, 3D 장면의 구석을 어둡게하여 공연 비용으로 더 나은 영상을 제공합니다.</t>
+				<t id="shadows">고품질 그림자</t>
+				<t id="shadowQuality">None|Low|Medium|High|Very High</t>
+				<t id="ground">고품질 그라운드 텍스쳐</t>
+				<t id="cachedGround">Cached Ground <font opacity="0.7">(성능향상)</font></t>
+				<t id="cachedGround_tooltip">사전 지형 텍스처를 빌드하고 캐시에 저장하여 메모리사용량을 늘리는대신 성능을 향상시킵니다.</t>
+				<t id="resolution">해상도</t>
+				<t id="fullscreen">전체화면</t>
+				<t id="exclusive">최적화 모드</t>
+				<t id="vsync">수직동기화</t>
+				<t id="auto_on_off">자동|켜기|끄기</t>
+				<t id="ui_scale">UI 확대</t>
+				<t id="title_advanced">고급</t>
+				<t id="dof">피사계 심도</t>
+				<t id="dof_tooltip">성능이 좀 떨어지는 대신 멀리있는 물체가 희미해져 더 나은 분위기를 연출합니다.</t>
+				<t id="waterReflection">물반사</t>
+				<t id="waterReflection_tooltip">성능이 좀 떨어지는 대신 물에 구름반사를 표현합니다.</t>
+			</g>
+			<g id="sound">
+				<t id="title">사운드</t>
+				<t id="music_volume">음악</t>
+				<t id="ambient_volume">배경음</t>
+				<t id="sound_volume">효과음</t>
+			</g>
+			<g id="credits">
+				<t id="title">Credits</t>
+				<g id="list">
+					<t id="s1">A game by</t>
+					<t id="s2">Shiro Games</t>
+					<t id="s3">Creative Director</t>
+					<t id="s4">Nicolas Cannasse</t>
+					<t id="s5">3D Graphics</t>
+					<t id="s6">Etienne "Emak" Makowski</t>
+					<t id="s7">Animation</t>
+					<t id="s8">Stéphane Videlo|Etienne "Emak" Makowski</t>
+					<t id="s9">Graphic Design</t>
+					<t id="s10">Jeremy Vitry|Etienne "Emak" Makowski|Elodie Perquis|Anaïs Maamar|Etienne Hebinger|Etienne Pov|Aurore Solé|Pierre Armal</t>
+					<t id="s11">Programming</t>
+					<t id="s12">Bernard Stouls|Nicolas Cannasse|Amandine Guilhaumon|Tom Rethaller|Nicolas Leroy|Rémi Boullerne</t>
+					<t id="s13">Game Design</t>
+					<t id="s14">Philippe Renouil|Nicolas Cannasse|Sébastien Vidal|Frédéric Oughdentz|Adrien Briatta</t>
+					<t id="s15">Music</t>
+					<t id="s16">Camille Schoell</t>
+					<t id="s17">Sound</t>
+					<t id="s18">Frédéric Motte</t>
+					<t id="s19">Community Relations</t>
+					<t id="s20">Adrien Briatta|Craig Nicholson|Paul-Louis Hardouin</t>
+					<t id="s21">한글화</t>
+					<t id="s22">디시인사이드 노스가드 마이너 갤러리|계란조아|채소마스터|삼류개발자</t>
+					<t id="s23">Executive Producer</t>
+					<t id="s24">Camille Schoell|Etienne "Emak" Makowski</t>
+				</g>
+			</g>
+
+
+			<t id="thanks">Thanks for playing!</t>
+		</g>
+		<t id="confirm_key_overwrite">이 단축키는 이미 사용중입니다. 덮어씌우시겠습니까?</t>
+		<t id="confirm_restore_keys">단축키를 기본값으로 복원하시겠습니까?</t>
+		<t id="restore_keys">기본값으로 되돌리기</t>
+		<t id="campaign_choose">캠페인 선택</t>
+		<t id="no_loaded_file">저장된 파일 없음</t>
+		<t id="loading_file">게임 불러오기</t>
+		<t id="new_file">게임 저장</t>
+		<t id="saving_file">저장된 게임</t>
+		<t id="new_game">새 게임 만들기</t>
+		<t id="game_settings">게임 설정</t>
+		<t id="clan_name">플레이어 이름</t>
+		<t id="clan_color">부족 색상 선택</t>
+		<t id="game_difficulty">게임 난이도</t>
+		<t id="difficulty_label">난이도</t>
+		<t id="game_mapsize">맵 크기</t>
+		<t id="game_maptype">맵 유형</t>
+		<t id="game_major_mode">게임 모드</t>
+		<g id="game_major_modes">
+			<t id="northgard">노스가드</t>
+			<t id="ragnarok">라그나로크</t>
+		</g>
+		<t id="ia_count">AI 플레이어</t>
+		<t id="clan_choose">확인</t>
+		<t id="game_saved">게임 저장됨</t>
+		<t id="add_tags">태그 추가...</t>
+		<t id="tags">태그</t>
+		<t id="search_keywords">키워드 찾기...</t>
+		<t id="single_player">싱글 플레이어</t>
+		<t id="played_time">플레이 시간</t>
+		<t id="seed">시드</t>
+		<t id="version">버전</t>
+		<t id="nbClans">부족</t>
+		<t id="enabled"><font color="#G">활성화</font></t>
+		<t id="disabled"><font color="#B">비활성화</font></t>
+		<t id="server_name">서버 이름</t>
+		<t id="disable_tips">도움말 비활성화</t>
+		<t id="available_from_main_screen">이 옵션을 변경하려면 현재 게임을 종료하십시오.</t>
+		<t id="all">전부</t>
+		<g id="difficulty">
+			<t _id="low">쉬움</t>
+			<t _id="medium">보통</t>
+			<t _id="high">어려움</t>
+		</g>
+		<g id="difficulty_ragnarok">
+			<t _id="medium">보통</t>
+			<t _id="high">어려움</t>
+			<t _id="extreme">극악</t>
+		</g>
+		<g id="campaign_difficulty">
+			<t _id="normal">보통</t>
+			<t _id="hard">어려움</t>
+			<t _id="extreme">극악</t>
+		</g>
+		<g id="conquest_difficulty">
+			<t _id="easy">쉬움</t>
+			<t _id="normal">보통</t>
+			<t _id="hard">어려움</t>
+			<t _id="extreme">극악</t>
+		</g>
+		<g id="map_size">
+			<t _id="small">소형</t>
+			<t _id="medium">중형</t>
+			<t _id="large">대형</t>
+			<t _id="huge">초대형</t>
+		</g>
+		<g id="newgame">
+			<t id="victory_conditions">승리 조건</t>
+			<t id="map_victory">맵 특수</t>
+			<t id="advanced_options">고급 설정</t>
+		</g>
+		<g id="military_paths">
+			<t id="title">군사 경로</t>
+			<g id="categories">
+				<t _id="tactician">책략가</t>
+				<t _id="guardian">수호자</t>
+				<t _id="conqueror">정복자</t>
+			</g>
+			<t id="choose_path_title">군사 경로를 선택하십시오</t>
+			<t id="choose_path_button">선택</t>
+			<t id="confirm_choose">::category:: 경로를 선택하시겠습니까?</t>
+			<t id="level">레벨 ::x::</t>
+			<t id="ability_unlocked">새 능력 습득</t>
+			<t id="notify_unlocked"><font color="::color::">::name::</font>이(가) 새 군사 경로 능력을 습득했습니다.<br/><font color="#A">::ability::</font></t>
+		</g>
+		<g id="forge">
+			<t id="tip_forge">대장간</t>
+			<t id="tab_civilian">민간인</t>
+			<t id="tab_military">전투원</t>
+			<t id="tab_relics">유물</t>
+			<t id="title_civilian">도구 개량</t>
+			<t id="title_military">무기 개량</t>
+			<t id="title_relics">유물 단조</t>
+			<t id="select_civilian">도구를 개량할 민간인 유닛을 선택하십시오.</t>
+			<t id="select_military">무기를 개량할 군사 유닛을 선택하십시오.</t>
+			<t id="select_relics">단조를 시작할 유물을 선택하십시오.</t>
+			<t id="empty_waiting_list">대기 목록:</t>
+			<t id="no_res">자원이 충분하지 않음.</t>
+			<t id="waiting">대기 목록에 있음.</t>
+			<t id="tools_forged">이미 개량됨.</t>
+			<t id="free_tool">개량 비용 무료</t>
+			<t id="cancel_upgrade">정말 개량을 중지하시겠습니까?</t>
+			<t id="cancel_relic">정말 유물 단조를 중지하시겠습니까?</t>
+			<t id="tools_waiting">이 도구가 곧 개량됩니다.</t>
+			<t id="tools_start">클릭하여 이 도구를 개량.</t>
+			<t id="weapons_waiting">이 무기가 곧 개량됩니다.</t>
+			<t id="weapons_start">클릭하여 이 무기를 개량.</t>
+			<t id="relic_forged">이미 단조됨</t>
+			<t id="relic_waiting">이 유물이 곧 단조됩니다.</t>
+			<t id="relic_forged_team">이미 ::player_name::에 의해 단조됨.</t>
+			<t id="relic_all_forged">오직 하나의 유물만 단조할 수 있음.</t>
+			<t id="relic_all_forged_mult">오직 ::nbRelics:: 유물만 단조할 수 있음.</t>
+			<t id="relic_req">요구사항 충족되지 않음.</t>
+			<t id="relic_start">클릭하여 이 유물을 단조.</t>
+			<t id="relic_clan">- ::the_clan_of_the_animal:: 유물 -</t>
+			<t id="currently_forged">단조 중</t>
+		</g>
+		<g id="artifact">
+			<t id="tip_throne">Inventory</t>
+			<t id="not_discovered">Not yet discovered</t>
+			<t id="no_warchief">You need to summon [OxHero] before equipping any [Artifact]</t>
+			<t id="warchief_too_far">[OxHero] is not in allied territory</t>
+			<t id="already_equiped">Already equipped</t>
+			<t id="click_to_equip">Click to equip</t>
+			<t id="select_below">Click on an [Artifact] to equip it</t>
+			<t id="nothing_equiped">- Nothing equipped -</t>
+			<t id="inventory_title">Inventory</t>
+			<t id="desc">[Artifact]s can be found in [AncientBattleground]s in Northgard. The more you fight, the more chance you have to discover new ones.</t>
+			<t id="equiped">Equipped legendary items:</t>
+			<t id="goto_inventory">Open the inventory</t>
+			<t id="goto_battleground">View current [AncientBattleground]</t>
+			<t id="no_more_battleground">You have found all [Artifact]s</t>
+			<t id="wait_battleground">Next one has not spawned yet</t>
+			<g id="stat">
+				<t id="attack">Attack power : <font color="#G">::value::</font></t>
+				<t id="defense">Defense : <font color="#G">::value::</font></t>
+				<t id="health">Health : <font color="#G">::value::</font></t>
+				<t id="attack_speed">Attack speed : <font color="#G">::value::</font></t>
+				<t id="evasion">Evasion : <font color="#G">::value::</font></t>
+				<t id="projectile_resist">Proj. resist. : <font color="#G">::value::</font></t>
+				<t id="damage_return">Reflect : <font color="#G">::value::</font></t>
+				<t id="move_speed_ally">Move speed (ally) : <font color="#G">::value::</font></t>
+				<t id="move_speed_enemy">Move speed (enemy) : <font color="#G">::value::</font></t>
+				<t id="ability"><font color="#G">::ability_name::</font></t>
+			</g>
+		</g>
+	</g>
+	<g id="abilities">
+		<g id="no_use_reason">
+			<t id="cant_colonize_zone">이 지역은 이번에 점령될 수 없습니다.</t>
+			<t id="no_tower">이 지역에는 동맹의 방어탑이 없습니다.</t>
+			<t id="no_producing_building">[Food], [Wood] 혹은 [Money] 건물이 필요.</t>
+			<t id="no_building">이 지역에는 건물이 없습니다.</t>
+			<t id="not_relic_creator">유물의 제작자가 아닌 자는 해당 유물을 사용할 수 없습니다.</t>
+			<t id="no_civilians">이 지역에는 민간인이 없습니다.</t>
+			<t id="not_enemy_area">적의 영토가 필요합니다.</t>
+			<t id="no_military_camp">이 지역에서는 군사 캠프가 없습니다.</t>
+			<t id="currently_used">이미 사용 중입니다.</t>
+			<t id="fighting">전투 중엔 사용할 수 없습니다.</t>
+			<t id="warcry_zone_cooldown">아군의 마지막 [Warcry] 사용으로부터 아직 한 달이 지나지 않았습니다.</t>
+			<t id="already_has_unit">이미 [::unit::] 보유 중</t>
+			<t id="missing_building">[::building_name::] 필요</t>
+			<t id="max_wolves">이미 ::nb:: [WhiteWolf]들을 가지고 있습니다.</t>
+			<t id="zone_protected">해당 구역은 [RelicShield]로부터 보호받고 있습니다.</t>
+			<t id="require_non_coastal">[::ability_name::]은 비 해안 지역에서 가능합니다.</t>
+			<t id="ancient_spirit_requirement">[AncientSpirit]는 다른 중립 [SpecterWarrior]가 없는 적 지역에만 시전 가능합니다.</t>
+			<t id="missing_unit">부족에 [::unit_name::]가 필요합니다.</t>
+			<t id="need_discovery">[::ability_name::]를 시전하려면 먼저 해당 지역 탐사를 해야합니다.</t>
+			<t id="need_improved_tool">[::ability_name::]를 활성화 하려면 해당 유닛의 도구를 업그레이드 해야합니다.</t>
+			<t id="cant_purify_yggdrasil">[Yggdrasil]을 정화할 수 없습니다.</t>
+			<t id="cant_purify_townhall">[TownHall]이 있는 지역을 정화할 수 없습니다.</t>
+		</g>
+	</g>
+	<g id="specialCampaign">
+		<g id="ui">
+			<t id="play_intro">플레이 소개</t>
+		</g>
+		<t id="foothold_goat">할바드와 헤이드룬이 그들의 목적을 달성했습니다.</t>
+		<t id="skirmish_renfort">::value::달 뒤에 용병 수색대가 도착합니다.</t>
+		<t id="giants_giantAttack">[Giant]들이 당신을 침공합니다.</t>
+		<t id="bifrost_bifrostEvent">뵈어드룽이 곧 걀라르호른을 불 것입니다. 침공에 대비해야 합니다!</t>
+		<t id="footholdSwampDesc">이 곳은 유독가스, 오염된 물과 병충해로 인해 개척이 불가능한 지역입니다.</t>
+		<t id="footholdSwampName">유독한 습지</t>
+		<t id="giantSwordName">고대 요툰의 유물</t>
+		<t id="giantHeroNameA">야프나르드</t>
+		<t id="giantHeroDescA">요툰헤임 노동자들의 강력한 챔피언, 상속자들을 타도하기 위해 당신께 가세했습니다!</t>
+		<t id="giantHeroFlavorA">양모 생산 수단을 장악하십시오!</t>
+		<t id="giantHeroNameB">로그</t>
+		<t id="giantHeroDescB">요툰헤임 공포의 심판자, 상속된 영주들의 권력의 최고 집행자이자 그들의 재산을 수호하는 자.</t>
+		<t id="giantHeroFlavorB">내가 곧 법이다!</t>
+		<t id="chooseGiantClan">팩션을 선택하거나 다른 팩션을 무너뜨리는데 도움을 주십시오.</t>
+		<t id="chooseGiantSkrymirDesc">스크리뮈르는 요툰헤임의 왕이자 이 땅의 주인입니다. 이것이 곧 그와 그의 거인들이 양의 생산물을 독점할 수 있는 이유라고 그들은 강하게 믿고 있습니다.</t>
+		<t id="chooseGiantFjolsvinDesc">피욜스빈은 요툰헤임 노동자들의 지도자입니다. 그들은 생산품을 분배함에 있어 그들의 고된 노동이 저들의 상속된 권리보다 우선시되야 한다고 믿고 있습니다.</t>
+		<t id="chooseGiantConfirm">이 팩션에 가담하기</t>
+		<t id="greatOutpost">주 교역로</t>
+		<t id="wurmSlayerForge">주민을 [Smith]로 훈련시켜 더 나은 도구와 무기들을 제작하십시오. 당신은 또한 [RimeSteel]을 이용해 강력한 웜슬레이어를 제작할 수 있습니다.</t>
+		<t id="wurmSlayerSmith">곰 부족의 대장장이만이 저명한 웜슬레이어를 만들 수 있습니다.</t>
+		<t id="forgeWurm_desc">웜슬레이어를 제작하십시오.</t>
+		<t id="forgeWurmTip">주민을 [Smith]로 훈련시켜 웜슬레이어를 제작하십시오.</t>
+		<t id="startForge">충분한 양의 [RimeSteel]을 모으면 웜슬레이어를를 제작 할 수 있습니다.</t>
+		<g id="swordPartCampaign">
+			<t _id="wurmslayer">웜슬레이어</t>
+			<t _id="grip">자루</t>
+			<t _id="blade">칼날</t>
+		</g>
+		<t id="bannerRecovering">[::unit::]이(가) 심각한 부상을 입었습니다. 회복한 후 다시 흐림간드르와 싸우기 위해 돌아갈 것입니다.</t>
+	</g>
+	<g id="dialogs">
+		<t id="button_ok">확인</t>
+		<t id="button_cancel">취소</t>
+		<t id="button_back">뒤로</t>
+		<t id="button_save">저장</t>
+		<t id="button_confirm_exit">종료 확인</t>
+		<t id="congrats">축하합니다!</t>
+		<t id="destroy_confirm">정말 이 건물을 파괴하시겠습니까?</t>
+		<t id="transfer_zone_confirm">지역을 <font color="::color::">::name::</font>에게 양도하시겠습니까?</t>
+		<t id="victory_title">승리</t>
+		<t id="defeat_title">패배</t>
+		<t id="conquered_title">정복</t>
+		<t id="won">축하합니다! 당신의 부족이 <font color="#G">::vname::</font> 승리를 달성했습니다!</t>
+		<t id="team_won">축하합니다! 당신의 팀이 <font color="#G">::vname::</font> 승리를 달성했습니다!</t>
+		<t id="lost"><font color="::color::">::name::</font>이(가) <font color="#R">::vname::</font> 승리를 달성했습니다...</t>
+		<t id="lost_time_over">시간 제한에 도달했습니다.</t>
+		<t id="jotnar_eradicated">모든 [Giant] 캠프가 박멸되었습니다.</t>
+		<t id="ally_defeated">당신의 동맹국이 패배했습니다.</t>
+		<t id="giantboar_defeat">[GiantBoar]는 다른 일족에 의해 살해되었습니다.</t>
+		<t id="helheim_control">침략을 멈추지 못했습니다.</t>
+		<t id="defeat">당신의 타운홀이 <font color="#B">파괴</font>되었습니다. 당신의 부족은 패배했습니다...</t>
+		<t id="game_paused">일시 중지됨</t>
+		<t id="confirm_overwrite">::name:: 기존 파일을 덮어 씌우시겠습니까?</t>
+		<t id="resume_game_wait">게임 재개는 ::time::초 뒤에 활성화 됩니다.</t>
+		<t id="pause_remaining">::count::회의 일시중지 기회가 남아 있습니다.</t>
+		<t id="resume_time">::time::초 뒤 게임이 재개됩니다.</t>
+		<t id="cannot_pause">탈출 메뉴를 사용하여 게임을 일시정지 할 수 있습니다.</t>
+		<t id="on">켜기</t>
+		<t id="off">끄기</t>
+		<t id="confirm_quit_desktop">바탕화면으로 나가시겠습니까?</t>
+		<t id="confirm_exit">진행 상황을 저장하지 않고 게임 종료를 하시겠습니까?</t>
+		<t id="confirm_exit_game">정말 종료하시겠습니까?</t>
+		<t id="confirm_concede">정말 패배를 인정하시겠습니까?</t>
+		<t id="confirm_exit_multi">지금 게임을 떠나면 해당 세션이 종료되고 모든 플레이어와의 연결이 끊깁니다!</t>
+		<t id="confirm_save_delete">::name:: 파일을 삭제하시겠습니까?</t>
+		<t id="save_format">::name::</t>
+		<t id="user_format">::user::</t>
+		<t id="info_format">::clan:: 부족 - 난이도: ::diff::</t>
+		<t id="time_format">::time::분</t>
+		<t id="tech_title">로어</t>
+		<t id="tech_free">::desc::으로 무료 획득</t>
+		<t id="tech_blessings_extra">지혜 승리를 달성하기 위해 모든 축복을 해금하십시오!</t>
+		<t id="tech_got_blessing">::count::/::max:: 지식</t>
+		<t id="tech_req_blessing">::count::/::max:: 지식 필요</t>
+		<t id="choose_clone_tech">::tech::을 선택하십시오</t>
+		<t id="recruit_month_left"><br/>(Less than a month remaining.)</t>
+		<t id="recruit_months_left"><br/>(::nb:: month remaining.)</t>
+		<t id="dedication_currently">(현재 +::nb::%)</t>
+		<t id="prescience_ability">와드 특성</t>
+		<t id="close">닫기</t>
+		<g id="meteo">
+			<t id="summer">겨울을 준비하세요.</t>
+			<t id="winter">식량 생산량이 감소되었습니다.</t>
+		</g>
+		<g id="trade">
+			<t id="title">교역</t>
+			<t id="desc">[Money]을 벌기 위해 당신의 상인이 판매할 자원을 선택하십시오:</t>
+			<t id="need_resource">[::id::] 재고 없음</t>
+			<t id="trade_with">교역할 팩션을 선택하십시오:</t>
+			<t id="button">교역 시작</t>
+			<t id="cant_trade_at_war">전쟁 중인 부족과는 교역할 수 없습니다.</t>
+			<t id="campaign_at_war">상대 편 [Giant] 팩션과는 교역할 수 없습니다!</t>
+			<t id="cant_trade_this">그들은 이 자원을 원하지 않습니다.</t>
+			<t id="cant_trade_boar">멧돼지 부족은 다른 부족과 교역할 수 없습니다.</t>
+			<t id="cant_trade_with_clan">이 부족과는 교역할 수 없습니다.</t>
+			<t id="cant_trade_twice">한 부족과 같은 자원을 두 번 교역할 수는 없습니다.</t>
+			<t id="nobody">아직 다른 부족과 만나지 못했습니다.</t>
+			<t id="cancel">교역 중지</t>
+			<t id="cancelPrestige">위대한 무역로 중지</t>
+			<t id="motherland">고향</t>
+		</g>
+		<t id="colonize_progress">점령 중 (::v::%)</t>
+		<t id="uncolonize_progress">점령 해제 중 (::v::%)</t>
+		<t id="mine_depleted">광맥이 고갈되었습니다. 당신은 광산을 파괴할 수 있습니다.</t>
+		<t id="trade_bonus"><font color="::color::">::name::</font>에게 [::res::]을(를) 교역하고 있습니다.<br/></t>
+		<g id="choose_tool">
+			<t id="title">업그레이드할 도구 선택</t>
+			<t id="tip">[::id::]의 [::res::] 생산량이 ::percent:: 더 증가합니다.</t>
+			<t id="tip_miner">채광 속도가 ::percent:: 더 빨라집니다.</t>
+			<t id="tip_villager">[Villager]의 건설 및 수리의 속도가 ::percent:: 더 빨라집니다.</t>
+			<t id="tip_mender">[Mender]의 치료 속도가 ::percent:: 더 빨라지고 [Lore] 생산량이 ::percent:: 더 증가합니다.</t>
+			<t id="tip_skald">[::id::]의 [Fame]와 [Happy], 그리고 [GreatDeeds]로 버는 [Money] 생산량이 ::percent:: 더 증가합니다.</t>
+			<t id="tip_healer">[Healer] 의 치유 속도가 ::percent:: 만큼 빨라집니다. 또한 ::percent:: 만큼 더 많은 [Food]를 생산합니다.</t>
+			<t id="tip_sailor">[::id::]의 [Money], [Lore]와 [Fame] 생산량이 ::percent:: 더 증가합니다.</t>
+			<t id="tip_sailor_snake">[::id::]의 [Money]과 [Lore] 생산량이 ::percent:: 더 증가합니다.</t>
+			<t id="tip_warrior">[::id::]가 [WarriorCharge] 능력을 얻고 공격력이 ::percent:: 증가합니다.</t>
+			<t id="tip_axethrower">[::id::]의 공격 사거리와 공격력이 ::percent:: 증가합니다.</t>
+			<t id="tip_shieldbearer">[::id::]의 투사체 저항이 두배가 되고 ::percent::만큼 저항력이 증가합니다.</t>
+			<t id="tip_skirmisher">[::id::]이 [SkirmisherPoison] 능력을 얻고 공격력이 ::percent:: 증가합니다.</t>
+			<t id="tip_upgradeAtk">[::id::]이 [SwirlAttack] 능력을 얻고 공격력이 ::percent:: 증가합니다.</t>
+			<t id="tip_smith">[::id::]의 단조 속도가 ::percent:: 더 빨라집니다.</t>
+			<t id="tip_norn">[::id::]의 [Happy] 과 [Prescience]가 ::percent:: 증가합니다.</t>
+			<t id="tip_norn_armor">[::id::]가 [Purify] 능력을 획득하고 공격력이 ::percent:: 증가합니다.</t>
+			<t id="tip_scout">[::id::]s entdecken neue Gebiete und erkunden Ruinen um ::percent:: schneller. Außerdem rennen sie beim Spähen.</t>
+			<t id="tip_mercenary">[::id::]s sind um ::percent:: resistenter gegen Geschosse.</t>
+			<t id="upgraded"><font color="#G">개량됨</font></t>
+			<t id="no_unit"><font color="#B">건물 필요</font></t>
+			<t id="no_tool">[::id::]은 개량 될 수 없음</t>
+			<t id="no_tool_ally">동맹 유닛은 개량 될 수 없음</t>
+		</g>
+		<t id="scout_req_camp">[Scout]이 새로운 지역을 탐색하려면 정찰병 막사가 필요합니다.</t>
+		<t id="hero_cooldown">::name::을(를) 기다리는 중 (::p::%)</t>
+		<t id="waiting_drakkar">롱쉽이 돌아오기를 기다리는 중...</t>
+		<t id="new_title">새로운 칭호:</t>
+		<t id="new_age">::age:::</t>
+		<t id="fame_level_up">당신의 지도자로써의 성공담이 다른 부족에게 전해졌습니다. 당신은 새로운 능력을 얻었습니다.</t>
+		<t id="maxed_pop">새로운 인구를 위한 공간이 부족합니다. 더 많은 집을 지어야 합니다.</t>
+		<t id="no_unit_to_heal">당신의 영토 내에 부상 받거나 병든 유닛이 없습니다.</t>
+		<t id="currently_healing">::name:: 치료 중 (::p::%)</t>
+		<t id="no_growth">인구를 성장시키기 위해선 더 많은 [Happy]이 필요합니다.</t>
+		<t id="drakkar_bring_fame">선원들이 [Fame]을 위해 싸웁니다</t>
+		<t id="drakkar_bring_no_fame">당신의 부족은 [Fame]을 위해 싸우지 않습니다</t>
+		<t id="drakkar_bring_lore">선원들이 [Lore]를 탐색합니다</t>
+		<g id="manage_harbor">
+			<t id="title_raid">항해</t>
+			<t id="raid_desc">[Sailor]들이 탐구할 추가 자원을 선택하십시오:</t>
+			<t id="cant_raid_nosailor">항해를 시작하기 위해선 [Sailor]을 배속해야 합니다.</t>
+			<t id="explore">탐험</t>
+			<t id="explore_tip">[Sailor]들이 항해하는 동안 새로운 해안가 타일을 탐험합니다.</t>
+			<t id="explore_progress">탐험 중 (::p::%)</t>
+			<t id="cant_explore_nosailor">탐험을 하기 위해선 항해 중인 [Sailor]이 필요합니다.</t>
+			<t id="cant_explore_noarea">[Sailor]이 탐험할 수 있는 지역이 더 이상 남아있지 않습니다.</t>
+			<t id="title_raven_port">용병단</t>
+			<t id="mercenary_desc">용병단이 선택된 해변 타일을 습격하고 승리를 거둘 경우 그 자리에 머뭅니다.</t>
+			<t id="mercenary_deploy">용병단 고용</t>
+			<t id="mercenary_deploy_help">[Mercenary]들을 호출할 해변 타일을 선택하십시오.</t>
+			<t id="mercenary_cooldown">모집 중 (::p::%)</t>
+			<t id="mercenary_cant_deploy">아직 용병단을 호출할 해변 타일을 발견하지 못하였습니다.</t>
+			<t id="title_great_routes">위대한 무역로</t>
+			<t id="great_route_desc">위대한 무역로를 통해 [Prestige]을 얻고 교역 승리를 향해 나아가십시오.</t>
+			<t id="start_route">위대한 무역로 활성화</t>
+			<t id="stop_route">무역 중지</t>
+			<t id="no_money">당신은 위대한 무역로를 활성화 할 만큼의 충분한 [Money]을 가지고 있지 않습니다.</t>
+			<t id="noLighthouse">위대한 무역로를 해금하려면 이 ::portKind::에 등대를 건설하십시오.</t>
+			<t id="uniqueLighthouse">하나의 ::portKind::에 이미 등대가 건설되어 있습니다.</t>
+			<t id="loot_zone">전리품 <img src="/r/::r::"/>::q::</t>
+			<t id="title_buy_slaves">노예 구매</t>
+			<t id="buy_slaves_desc">::nb::명의 [Slave]를 구매합니다.<br/>구매할 때마다 가격이 +::slave_cost::[Money] 증가합니다.<br/>매 달 가격이 -::decrease_cost::[Money] 감소합니다.</t>
+			<t id="buy_slaves_bt"><img src="/r/::res::"/>::cost::으로 구매</t>
+			<t id="buy_slaves_cooldown">쿨다운 ::val::%</t>
+			<t id="buy_slaves_cantPay">[Slave]들을 구매하기에 충분한 [Money]을 가지고 있지 않습니다.</t>
+			<t id="buy_slaves_too_many">새 [Slave]를 수용할 공간을 가지고 있지 않습니다. 노예 수용량은 인구수에 비례해 올라갑니다</t>
+			<t id="frozensea_warning">[Sailor]들이 자원을 생산할 수 없습니다. 위대한 무역로도 중단됩니다.</t>
+			<t id="frozensea_tip_over">얼어붙은 바다 위에선 사용할 수 없습니다.</t>
+		</g>
+	</g>
+	<g id="fame">
+		<t id="fame_titles">추장|테인|야를|킹</t>
+		<t id="ages">15세|16세|18세</t>
+		<t id="age0_name">교활한 자</t>
+		<t id="age_desc"><font color="#R">::age::: ::name::</font></t>
+	</g>
+	<g id="happy_categories">
+		<t id="territory">영토</t>
+		<t id="taverns">양조자</t>
+		<t id="horgrs">노른</t>
+		<t id="military">군사 유닛</t>
+		<t id="buildings">건물 보너스</t>
+		<t id="FoodReserve">식량 비축량</t>
+		<t id="_old">부유함</t>
+		<t id="knowledge"></t> <!-- Deprecated -->
+		<t id="feasts">축제</t>
+		<t id="heroes">워치프의 영광</t>
+		<t id="housing">당신의 부족이 개선된 집을 원합니다!</t>
+		<t id="wounded">부상자가 너무 많습니다!</t>
+		<t id="_old2">Our clan isn't famous!</t> <!-- Deprecated -->
+		<t id="wantupgrade">당신의 부족이 개선된 [TownHall]을 원합니다!</t>
+		<t id="unitsmalus"></t> <!-- UnitsMalus, status_happy used -->
+		<t id="population"></t> <!-- Population, status_happy.current used -->
+		<t id="geyser">간헐천</t>
+		<t id="svarnrequest">스반의 감사</t>
+		<t id="greatroute">위대한 항로</t>
+		<t id="specterwarrior">[SpecterWarrior]</t>
+		<t id="need_sacrifice">인신공양 필요</t>
+		<t id="mushrooms">드림랜드</t>
+		<t id="gemstone">젬스톤</t>
+		<t id="temple">왕의 제단</t>
+	</g>
+	<g id="status_happy">
+		<t id="nohome">부족원이 살 집이 없습니다!</t>
+		<t id="nofood">부족원이 굶고 있습니다!</t>
+		<t id="nowood">부족원이 추위에 떨고 있습니다!</t>
+		<t id="sick">부족원이 병 들어 있습니다!</t>
+		<t id="total">행복 산출량</t>
+		<t id="current">행복 요구량</t>
+		<t id="next">우리는 현재 <img src="/r/Happy"/><font color="#G">+::v::</font>를 가지고 있습니다. <font color="#R">::time::</font> 일마다 새로운 주민이 당신의 부족에 합류합니다.</t>
+	</g>
+	<g id="tip">
+		<t id="happy_progress">다음 주민까지 ::p::%</t>
+		<t id="cycle">개체 선택</t>
+		<t id="select_all">전체 선택</t>
+		<t id="sheep_production">양목장</t>
+		<t id="feast_bonus">축제 보너스</t>
+		<t id="temple_bonus">왕의 제단</t>
+		<t id="food_consumption">소비량</t>
+		<t id="territory_money">타운홀</t>
+		<t id="buildings_upkeep">건물 유지비</t>
+		<t id="building_upkeep_year">연간 건물 유지비</t>
+		<t id="wood_consumption">땔감</t>
+		<t id="population_desc">이것은 당신 부족의 현재 인구수입니다. 당신은 <font color="#R">::max::</font> 명의 인구를 위한 주거공간을 가지고 있습니다.</t>
+		<t id="slaves_desc">이것은 당신 부족의 현재 [Slave] 수입니다. 당신은 <font color="#R">::max::</font> 명 분의 노예 최대 수용량을 가지고 있습니다. 이 크기는 당신 부족의 인구수에 비례해 달라집니다. [Slave]들이 당신의 부족민보다 많아지는 일이 없도록 하십시오. 그렇지 않으면 그들이 결탁하여 당신에게 반란을 일으킬 것입니다...</t>
+		<t id="warband_default">당신 부족의 현재 전투원 수입니다. 최대치를 증가시키기 위해서는 군사 캠프를 지으십시오.</t>
+		<t id="warband_maxed">전투원 규모를 늘리려면 더 많은 군사 캠프를 지으십시오!</t>
+		<t id="population_lore">인구</t>
+		<t id="trade_in">수입</t>
+		<t id="trade_out">수출</t>
+		<t id="trade_prestige">위대한 무역로</t>
+		<t id="friend_no_attack">[Myrkalfar]들과 우호관계가 되었습니다. 그들은 더 이상 당신을 공격하지 않을 것입니다.</t>
+		<t id="require_res_limit"><font color="::color::"><img src="/r/::id::"/>::value::</font> 필요</t>
+		<t id="percent_explored">::p::% 탐험 중</t>
+		<t id="percent_built">::p::% 건설 중</t>
+		<t id="cant_upgrade">이 건물은 업그레이드 할 수 없습니다.</t>
+		<t id="bifrost_lore">[Lore]를 사용하면 [BifrostLore]를 활성화 할 수 있습니다.</t>
+		<t id="open_main_menu">메인 메뉴 열기 <font color="#T" opacity="0.5">[Esc]</font></t>
+		<t id="game_pause">게임 일시 중지 <font color="#T" opacity="0.5">[::hotkey::]</font></t>
+		<t id="world_info">세부 정보 보기 <font color="#T" opacity="0.5">[::hotkey::]</font></t>
+		<t id="minimap_mode">미니맵 디스플레이 전환: <font color="#T" opacity="0.7">[::hotkey::] Icons/Military</font></t>
+		<t id="open_chat">채팅하기 <font color="#T" opacity="0.5">[::hotkey::]</font></t>
+		<t id="ping_team">핑찍기 <font color="#T" opacity="0.5">[::hotkey::]</font></t>
+		<g id="fame">
+			<t id="current_title">현재 칭호: <font color="#R">::title::</font></t>
+			<t id="next_title">다음 칭호: <font color="#R">::title::</font>; requires <img src="/r/Fame"/><font color="#F">::count::</font></t>
+			<t id="territory">영토</t>
+			<t id="feasts">축제 개최</t>
+			<t id="uncolonize">상대 영토 해제</t>
+			<t id="knowledge">로어 탐구</t>
+			<t id="upgrades">건물 업그레이드</t>
+			<t id="defeated">::name::을(를) 쓰러뜨림</t>
+			<t id="faction">::name::을(를) 쓰러뜨림</t>
+			<t id="friend_with">::name::와(과) 우호관계</t>
+			<t id="building">::name::</t>
+			<t id="unit">::name::</t>
+			<t id="kobold">[Kobold] 구역 제거</t>
+			<t id="campaign_request">::name:: 요청</t>
+			<t id="no_fame_desc">뱀의 부족은 [Fame]을 얻을 수 없습니다.</t>
+			<t id="current_age">현재 연령: <font color="#R">::name::</font></t>
+			<t id="next_age">시그니는 <font color="#F">::date::</font>에 <font color="#R">::name::</font>로 성장할 것입니다.</t>
+		</g>
+		<g id="status">
+			<t id="wounded_no_malus">부상당한 부족원.</t>
+		</g>
+		<t id="tech_unlock_trading">Unlocks Trading Routes at the [TradingPost].</t>
+		<t id="tech_unlock_trading_neutral">Unlock trading routes with neutral factions at the [TradingPost].</t>
+		<t id="cooldown">쿨다운: ::value:: 달</t>
+		<t id="passive">패시브</t>
+		<t id="fame_score">부족 명성</t>
+		<t id="zone_upgraded">Zone has been developed</t>
+		<t id="destroy_building">건물 철거</t>
+		<t id="cancel_building">건설 취소</t>
+		<t id="cancel_order"><font color="#T" opacity="0.5">[::hotkey::]</font>명령 취소</t>
+		<t id="cant_repair_under_attack"><font color="#R">공격</font> 받는 동안에는 건물을 수리할 수 없습니다!</t>
+		<t id="calendar_winter"><font color="#R">겨울:</font> 군사 유닛이 영토 밖에서 싸울 때 ::percent:: 공격력 패널티를 입습니다. 식량 생산량은 감소하고 나무 소비량은 증가합니다.</t>
+		<t id="calendar_summer"><font color="#R">여름:</font> 다가오는 겨울을 대비해서 식량을 비축하십시오.</t>
+		<t id="assigned_units">배속된 부족원의 수</t>
+		<t id="assigned_slaves">배속된 [Slave]의 수</t>
+		<t id="assigned_sheep">배속된 [Sheep]의 수</t>
+		<t id="available_resources">이 지역에 남아 있는 ::name:: 매장량</t>
+		<t id="default_upgrade">한 명 더 많은 [::unit::]을(를) 배속할 수 있게 되고, 이 지역에서 일하는 모든 [::unit::]의 생산량이 ::percent:: [::res::] 증가됩니다.</t>
+		<t id="raven_port_upgrade">한 명 더 많은 [::unit::]을 훈련시킬수 있으며, 이 지역의 모든 [::unit::]의 생산량이 ::percent:: [::res::] 증가됩니다. 또한 정찰시간을 ::percent1:: 만큼 단축합니다.</t>
+		<t id="hire_hero">고용: [::unit::]</t>
+		<t id="hire_hero_maxed">한 명의 [::unit::]만 가질 수 있습니다.</t>
+		<t id="rally_warchief">활성화하면 새로 훈련된 [::unit::]은(는) 자동으로 당신의 [::name::]에게 집결할 것입니다.</t>
+		<t id="rally_several_warchiefs">활성화하면 새로 훈련된 [::unit::]은(는) 자동으로 가까운 워치프에게 집결할 것입니다.</t>
+		<t id="rally_warchief_campaign">활성화하면 새로 훈련된 [::unit::]은(는) 자동으로 당신의 [::name::]에게 집결할 것입니다.</t>
+		<t id="buy_marketplace"><img src="/r/Money"/><font color="#R">::cost::</font>으로 <img src="/r/::r::"/><font color="#R">::count::</font> 구매</t>
+		<t id="building_no_slot">이 건물은 건설 공간을 차지하지 않습니다.</t>
+		<t id="building_require">::name:: 필요</t>
+		<t id="building_req_fame"><img src="/r/Fame"/><font color="#F">::count::</font> 필요</t>
+		<t id="building_req_tech">::name:: 테크 해금 필요</t>
+		<t id="building_req_beach">해변 필요</t>
+		<t id="building_req_deposit">돌/철 광맥 필요</t>
+		<t id="building_req_food_tile">식량 자원이 있는 지역 필요</t>
+		<t id="building_single">하나만 지을 수 있습니다.</t>
+		<t id="building_max_reached">건물 한계 도달: ::nbMax::</t>
+		<t id="building_all_zones_full">모든 지역에 이미 이 건물이 있습니다:</t>
+		<t id="building_already_in_area">이 건물은 이 지역에 이미 있습니다.</t>
+		<t id="building_no_place">건설 공간 부족</t>
+		<t id="building_hostility">지역이 공격받고 있습니다.</t>
+		<t id="building_defeated">당신의 부족원이 전멸당했습니다.</t>
+		<t id="need_thall_upgrade">마을회관 업그레이드 필요</t>
+		<t id="upgrade_fighting">전투중에는 업그레이드 할 수 없습니다.</t>
+		<t id="free_from_tech">무료 기술 ::tech_name::</t>
+		<t id="limited_free_from_tech">::tech_name:: (::num:: remaining)</t>
+		<t id="max_not_reached">The maximum number of buildings hasn't been reached</t>
+		<t id="non_coastal">비 해안 지역</t>
+		<t id="unlock_relic">유물 완성</t>
+		<t id="relic_creator">이 유물은 오직 ::player_name::만 사용할 수 있습니다.</t>
+		<t id="relic_already_built">유물은 한 번만 제작 가능</t>
+		<t id="scorched_effect">[ScorchedEarth] : 생산력 -::malusProd::%, 뱀 부족 유닛과 건물 공격력 +::snakeBonus::%</t>
+		<t id="can_cast_scorched">이 지역에서 [ScorchedEarth]를 사용할 수 있습니다</t>
+		<t id="cannot_cast_scorched">[ScorchedEarth]를 사용하려면 시그니가 해당 지역의 중앙으로 이동해야만 합니다</t>
+		<t id="remaining_time">남은 시간 ::value::</t>
+		<t id="berserk_cooldown">쿨다운 ::p::%</t>
+		<t id="Vedrfolnir_healed">베르드폴니르가 자신을 도왔던 부족을 위해 지역을 정찰합니다.</t>
+		<t id="require_tech"><img src="/r/Lore"/>::name::을 배워야 합니다.</t>
+		<t id="cant_steal_lore" loc="false">이 로어를 훔칠 수 없습니다, [::clan_name::] 부족은 신들에 의해 보호받고 있습니다.</t>
+		<t id="greater_jord">워치프와 개선된 방어탑의 공격력이 +::percent::% 증가합니다.</t>
+		<t id="victory_title">::vname:: 승리</t>
+		<t id="cant_use_ability">::ability_name::는 아직 사용할 수 없습니다.</t>
+		<t id="slaughter">[::ukind::]을(를) 도축해 <img src="/r/Food"/>::food:: 얻기</t>
+		<t id="repair_building"><img src="/r/::r::"/>::count::로 수리</t>
+		<t id="victory_conditions">승리 조건 및 현황을 확인하려면 클릭하거나 <font color="#R">[::hotkey::]</font>를 누르십시오.</t>
+		<t id="team_player">아군</t>
+		<t id="black_market">암시장을 이용해 이 부족에게 물건을 밀수출 할 수 있습니다.</t>
+		<t id="motherland">해외로 상품을 수출합니다.</t>
+		<t id="can_cast_dash">You can use [Dash] on this building</t>
+		<t id="dash_blocked">An obstacle is preventing you from using [Dash] here</t>
+		<t id="dash_no_target">Target an enemy building to use [Dash]</t>
+		<t id="dash_player_built">You can only use [Dash] on enemy clan buildings.</t>
+		<t id="dash_is_special">You cannot use [Dash] on [::building_kind::].</t>
+		<t id="dash_same_zone">You can only use [Dash] in the same zone as [OxHero]</t>
+		<g id="align">
+			<t id="color"><font color="::color::">::name::</font></t>
+			<t id="clan">,<font color="#R">::the_clan_of_the_animal::</font>의 지도자</t>
+			<t id="war">당신은 ::name::와(과) <font color="#B">전쟁 중</font>입니다!</t>
+			<t id="neutral">당신은 ::name::와(과) <font color="#R">중립적인 관계</font>를 갖고 있습니다.</t>
+			<t id="angry">당신은 ::name::와(과) <font color="#B">나쁜 관계</font>를 갖고 있습니다.</t>
+			<t id="peace">당신은 ::name::와(과) <font color="#G">좋은 관계</font>를 갖고 있습니다.</t>
+			<t id="improve_relation">그들과 교역하여 관계를 개선시키세요.</t>
+			<t id="at_war_no_trade">이 기간 동안 거래가 중단됩니다.</t>
+			<t id="fame">그는 현재 <img src="/r/Fame"/><font color="#F">::fame::</font>을 가지고 있습니다.</t>
+		</g>
+		<t id="feast_help">축제는 한 달 동안 모든 생산량에 <font color="#G">+::const::</font> 및 ::percent:: 보너스를 주고 ::happyVal:: [Happy]을 줍니다. 또한 개최자는 즉시 <font color="#F"><img src="/r/Fame"/>+::fame::</font>을 얻습니다.</t>
+		<t id="feast_help_goat">축제에서 <font color="#G">+::const::</font> 와 ::percent:: 모든 제작에 대한 보너스 및 ::happyVal:: [Happy] 와 <font color="#F"><img src="/r/Fame"/>+::fame::</font>를 2개월간 제공한다.</t>
+		<t id="feast_help_no_fame">축제는 한 달 동안 모든 생산량에 <font color="#G">+::const::</font> 및 ::percent:: 보너스를 주고 ::happyVal:: [Happy]을 줍니다.</t>
+		<t id="helheim_progress">::months::/::max::달 동안 통제권 유지</t>
+		<g id="stats">
+			<t id="attack">공격력</t>
+			<t id="defense">방어력</t>
+			<t id="lifePoints">체력</t>
+		</g>
+		<t id="inf_fame_unlocked">- <font color="#F">::name::</font>:<br/>::desc::</t>
+		<t id="inf_fame_locked"><font color="#D"> - ::name:::</font> (<img src="/r/Fame"/><font color="#F">::req::</font>)<br/><font color="#D">::desc::</font></t>
+		<t id="inf_fame_locked_nofame"><font color="#D"> - ::name:::</font><br/><font color="#D">::desc::</font></t>
+		<t id="improve_tools">유닛의 도구를 개량해 그들의 능력을 향상 시킬 수 있습니다.</t>
+		<t id="free_tools">무료 도구 개량이 가능합니다!</t>
+		<t id="free_cost">::count:: 무료 도구 개량</t>
+		<t id="military_select_all">전투원 선택 <font color="#T" opacity="0.5">[::hotkey::]</font></t>
+		<t id="military_togle_bear">[BearMaiden]을 선택 취소하려면 <font color="#T" opacity="0.5">[::hotkey::]</font>를 한 번 더 누르십시오</t>
+		<t id="free_tower_upgrade">무료 방어탑 업그레이드가 가능합니다!</t>
+		<t id="free_building_upgrade">::nb_upgrade:: 무료 [::building_name::] 업그레이드!</t>
+		<t id="free_global_building_upgrade">::nb_upgrade:: 무료 업그레이드!</t>
+		<g id="warnings">
+			<t id="food">부족원이 굶고 있습니다! 더 많은 식량을 모아야 합니다!</t>
+			<t id="stock">식량 비축량이 최대치에 도달했습니다! 더 많은 곡창을 건설해야 합니다!</t>
+			<t id="wood">부족원이 추위에 떨고 있습니다! 더 많은 나무를 모아야 합니다!</t>
+			<t id="money">더 이상 건물을 유지할 수 없습니다! 더 많은 크라운이 필요합니다!</t>
+			<t id="pop">인구가 성장할 수 없습니다! 더 많은 집이 필요합니다!</t>
+			<t id="happy">인구가 성장하지 않고 있습니다! 더 많은 행복이 필요합니다!</t>
+			<t id="betterhappiness">당신의 인구는 성장하고 있습니다만... 분명 그들은 보다 더 행복해질 수 있을 것입니다.</t>
+			<t id="goodhappiness">사람들이 상당히 행복해합니다. 그렇다고 월계관에 너무 안주하지는 마십시오!</t>
+			<t id="excellenthappiness">주민들이 매우 기뻐하며 당신에게 찬사를 보내고 있습니다. 계속 그렇게 하십시오!</t>
+			<t id="slave_happiness">[Slave]들의 상태는 행복도에 영향을 주지 않습니다.</t>
+			<t id="notconstructing">건설을 진척시키기 위해선 주민을 데려와야 합니다!</t>
+			<t id="nobodyassigned">여기에서 일하는 부족원이 한 명도 없습니다.</t>
+			<t id="clan_cant_use">[::the_clan_of_the_animal::]은 사용할 수 없습니다.</t>
+			<t id="burning">건물이 피해를 입었습니다! [Villager]을 보내 수리해야 합니다!</t>
+			<t id="nowork">몇몇 부족원들은 지금은 할 일이 없습니다...</t>
+			<t id="nohome">몇몇 부족원들은 살 집이 없습니다!</t>
+			<t id="nothappy">부족원이 불행해합니다!</t>
+			<t id="nofood">우리는 굶고 있습니다! 더 많은 식량을 모아야 합니다!</t>
+			<t id="nowood">우리는 추위에 떨고 있습니다! 더 많은 나무를 모아야 합니다!</t>
+			<t id="sick">몇몇 부족원들이 병들었습니다! 그들이 죽기 전에 치료해야 합니다!</t>
+			<t id="tech_available">새로운 지식을 습득할 수 있는 충분한 [Lore]가 모였습니다!</t>
+			<t id="blessing_available">신들로부터 새로운 축복을 받을 수 있습니다!</t>
+			<t id="too_far_malus">유닛들이 아군 영토로부터 멀리 떨어진 곳에 있습니다! 전투력이 ::inv_percent:: 만큼 감소됩니다.</t>
+			<t id="military_path_available">군사 경로를 선택하십시오</t>
+			<t id="bifrost_need_colonize">[BifrostLore]구역이 시작시 점령지로 활성화됩니다.</t>
+		</g>
+		<g id="sacrifice">
+			<t id="current_bonus">활성화</t>
+			<t id="full_blood">[Blood] 게이지가 가득 찼습니다</t>
+			<t id="no_bonus">활성화된 보너스 없음</t>
+			<t id="gauge_tip">이것은 당신의 [Blood] 비축량입니다. 사람들을 $build(SacrificialPyre)에 공물로 바쳐 비축량을 늘리고 특유의 축복들을 활성화할 수 있습니다. 이것이 고갈되게 두지 마십시오!</t>
+			<t id="need_blood">[Blood]를 얻기 위해 유닛을 희생합니다</t>
+			<t id="need_fame">해금하려면 <img src="/r/Fame"/><font color="#F">::req::</font> 필요</t>
+			<t id="harbor">배속된 [Slave]들은 오직 [Money]만을 생산합니다.</t>
+			<t id="fame_bonus">[SacrificeFame] 활성화.</t>
+			<t id="production_res_tip">(incl. <font color="#G">::production_value:: </font><img src="/r/SlavePop"/>)</t>
+		</g>
+		<t id="cant_colonize_occupied">방어되고 있는 지역을 점령할 수는 없습니다.</t>
+		<t id="cant_colonize_warring">옆에 지배중인 안전한 지역이 없으면 점령할 수 없습니다.</t>
+		<t id="cant_colonize_attacked">인근 지역이 공격 당하는 동안에는 점령할 수 없습니다!</t>
+		<t id="cant_colonize_notallowed">개척이 불가능한 지형이기에 점령할 수 없습니다.</t>
+		<t id="cant_colonize_lore_cooldown">::nb:: 월에 [Lore] 를 사용하여 지역을 점령할 수 없습니다.</t>
+		<t id="colonize_money_food">점령에 사용할 재화를 변경합니다.</t>
+		<t id="forbidden_while_area_warring">분쟁 중인 지역은 점령할 수 없습니다.</t>
+		<t id="upgrade_zone">이 지역에 건설 가능한 건물의 수를 늘립니다 (단 한번만).</t>
+		<t id="transfer_zone_to"><font color="::color::">::name::</font>에게 지역을 양도합니다</t>
+		<t id="claim_zone_to"><font color="::color::">::name::</font>에게 지역을 요청합니다 (아군 AI 한정)</t>
+		<t id="cooldown_transfer_zone">다음 지역 양도가 가능해지기까지 ::months:: 달.</t>
+		<t id="multi_tags"><font color="#FFFFFF">태그</font>는 다른 플레이어가 당신의 게임을 찾는 데 도움이 될 수 있습니다.</t>
+		<t id="victory_progress">승리 진척도</t>
+		<t id="already_one_bear">[BearMaiden]는 이미 당신의 통제하에 있습니다.</t>
+		<t id="need_in_territory">당신의 영토 내에서만 사용할 수 있습니다.</t>
+		<t id="friend_needed"><font color="#T">::name::</font>이(가) 게임에 참가하려면 당신의 친구 목록에 있어야 합니다!</t>
+		<t id="friend_send_invite">초대 다시 보내기</t>
+		<t id="need_upgrade_scout">개선된 정찰병 막사 필요</t>
+		<t id="subselect_unit">유닛 선택</t>
+		<t id="subselect_ctrl">Ctrl +</t>
+		<t id="subselect_group">같은 종류의 유닛 선택</t>
+		<t id="heal_current">치료 중</t>
+		<t id="heal_current_other">다른 [::hutId::]에게 치료받는 중</t>
+		<t id="heal_select">이 유닛부터 치료</t>
+		<t id="trade_out_recap">당신은 <img src="/r/::res::"/><font color="#B">::amount::</font>를 <img src="/r/Money"/><font color="#G">::money::</font>에 교역하고 있습니다.</t>
+		<t id="trade_in_recap"><font color="::color::">::name::</font>은(는) 당신에게 <img src="/r/::res::"/><font color="#B">::amount::</font>를 <img src="/r/Money"/><font color="#G">::money::</font>에 교역하고 있습니다.</t>
+		<t id="chat_mute">음소거 옵션<br/><font color="#T" opacity="0.5">채널 혹은 플레이어의 메시지 차단하기</font></t>
+		<t id="slave">노예</t>
+		<g id="transfer_area">
+			<t id="has_townhall">Can't transfer Townhall area.</t>
+			<t id="warring">Can't transfer while area is warring.</t>
+			<t id="not_owner">You don't control this Area.</t>
+			<t id="no_frontier">This area has no frontier with <font color="::color::">::name::</font></t>
+			<t id="not_ally"><font color="::color::">::name::</font> is not in your team</t>
+		</g>
+		<g id="under_pressure">
+			<t id="start_pressure_desc">Send an available [Skirmisher] to pressure <font color="::color::">::name::</font>. He will keep his role while he can reach an available area and will ignore global army move orders.</t>
+			<t id="stop_pressure_desc">Call back into your territory the [Skirmisher]s currently pressuring <font color="::color::">::name::</font></t>
+			<t id="is_ally">Allies can't be pressured.</t>
+			<t id="already_pressured"><font color="::color::">::name::</font> is already under pressure</t>
+			<t id="not_reachable_player"><font color="::color::">::name::</font> can't be reached.</t>
+			<t id="no_skirmisher_available">You have no available skirmisher.</t>
+		</g>
+		<g id="voice_chat">
+			<t id="mute">Mute</t>
+			<t id="unmute">Unmute</t>
+		</g>
+		<t id="show_profile_card">Display Gamercards</t>
+	</g>
+	<g id="tip_action">
+		<t id="wrong_kind">[::id::]은(는) 이 건물에 배속될 수 없습니다</t>
+		<t id="no_smith_horse">[HorseMaiden]과 [HorseHero]만 이 건물에 배정 될 수 있습니다.</t>
+		<t id="no_slave_military">[Slave]는 이 건물에 배속될 수 없습니다</t>
+		<t id="need_kind">[::id::] 필요</t>
+		<t id="already_assigned">이미 이 건물에 배속되어 있음</t>
+		<t id="already_repaired">이미 수리됨</t>
+		<t id="building_fully_assigned">건물이 가득 찼습니다.</t>
+		<t id="building_enougth_builder">이미 주민이 할당되어 건설중입니다.</t>
+		<t id="not_enough_warband">[Warband] 규모를 키우려면 더 많은 캠프를 건설하십시오</t>
+		<t id="cant_pay_warband_cost">고용비 ::resList::</t>
+		<t id="recruit_cost">[::id::] ::resList::</t>
+		<t id="repair_cost">수리 <img src="/r/::r::"/><font color="::color::">::cost::</font></t>
+		<t id="not_for_clan">[::the_clan_of_the_animal::]은 이 건물을 사용할 수 없습니다.</t>
+		<t id="women_only">이 건물은 여성만 훈련 가능합니다.</t>
+		<t id="player_only">Only <font color="::color::">::player_name::</font>'s units can be assigned to this building.</t>
+		<t id="ruin_explore">탐사</t>
+		<t id="wreck_scavenge">수색</t>
+		<t id="brokenHouse_visit">수색</t>
+		<t id="lethal_explore">. <font color="#W">[Scout]가 탐색중 사망하였습니다!</font></t>
+		<t id="already_explored"><font color="#B">이미 탐사됨</font></t>
+		<t id="already_scavenged"><font color="#B">이미 수색됨</font></t>
+		<t id="already_visited"><font color="#B">이미 수색됨</font></t>
+		<t id="too_many_buildings_here"><img src="/r/Building"/><font color="#B">::count::/::max::</font> 건물 수용량</t>
+		<t id="already_same_building">이 지역에 이미 [::building_name::]이(가) 있습니다.</t>
+		<t id="not_with_building">이 지역에 이미 ::building_name::이(가) 있습니다.</t>
+		<t id="sacrifice">인신 공양</t>
+		<t id="sacrifice_win_res" loc="false">$icon(Villager): <font color="#G">+::common_cost::</font>$icon(Blood)<br/>    $icon(SlavePop) : <font color="#G">+::slave_cost::</font>$icon(Blood)</t>
+		<t id="ability_ok">[::ability_name::] 시전</t>
+		<t id="hightide_ok">[::ability_name::]시전하려면, ::qty::[::res::]가 필요합니다.</t>
+		<t id="hightide_volcano">[HighTide] 를 [Volcano]에 시전할 수 없습니다.</t>
+		<t id="hightide_cost">자원이 부족합니다 (<font color="#B">::qty::</font>[::res::] 필요)</t>
+		<t id="thunder_not_ok">[HammerThunder]은 적의 영토 가장자리 타일에만 시전할 수 있습니다.</t>
+		<t id="hightide_not_ok">[HighTide]의 영향을받는 해변 지역 또는 지역에 인접한 비 해안 지역에서만 [HighTide]를 시전 할 수 있습니다.</t>
+		<t id="stilt_not_ok">자신의 해안 지역에만 [Stilt]를 시전 할 수 있습니다.</t>
+		<t id="ancient_spirit_not_ok">[AncientSpirit]은 연안 지역에서만 사용할 수 있습니다.</t>
+		<t id="mercenaries_not_ok_beach">적 또는 중립 해변에서만 습격을 시작할 수 있습니다.</t>
+		<t id="mercenaries_not_ok_drakkar">용병이 이미 이 구역으로 가는 중입니다.</t>
+		<t id="mercenaries_not_ok_mercenaries">이미 해당 적의 영토에 이 유형의 부대가 있습니다.</t>
+		<t id="giant_mercenaries_ok">습격 개시</t>
+		<t id="stilt_your_own">자신의 지역만 가능합니다.</t>
+		<t id="stilt_coastal_only">해안 지역만 가능합니다.</t>
+		<t id="already_stilted">이 지역은 이미 적용되었습니다.</t>
+		<g id="no_scouting_reason">
+			<t id="discovered">이미 탐색됨</t>
+			<t id="cant_reach">지역에 도달할 수 없음</t>
+			<t id="require_scout">[Scout] 필요</t>
+			<t id="require_scoutcamp">[ScoutCamp] 필요</t>
+			<t id="require_upgraded_scoutcamp">>개선된 [ScoutCamp] 필요</t>
+		</g>
+		<g id="no_colonize_reason">
+			<t id="occupied">지역이 방어되고 있습니다.</t>
+			<t id="nearby_attacked">인근 지역이 공격받고 있습니다.</t>
+			<t id="notallowed">개척 불가능한 지형입니다.</t>
+			<t id="missing_resources">자원이 부족합니다.</t>
+		</g>
+	</g>
+	<g id="tip_help">
+		<t id="s1"></t>
+	</g>
+	<g id="notify">
+		<t id="test">알림 테스트</t>
+		<t id="unknown_player">알려지지 않은 부족</t>
+		<g id="low">
+			<t id="food">부족이 굶고 있습니다! 더 많은 [Food]을 생산하고 비축해야만 합니다!</t>
+			<t id="wood">부족이 추위에 떨고 있습니다! 더 많은 [Wood]를 생산하고 비축해야만 합니다!</t>
+			<t id="happy">부족이 불행합니다! [Innkeeper]를 고용해 [Happy]을 증가시켜야 합니다!</t>
+			<t id="money">더 이상 <img src="/r/Money"/><font color="#B"> 건물 유지비를 지불할 수 없습니다!</font><font color="#G">::name::</font> 중 하나가 피해를 입었습니다. 수리하지 않으면 소실될 것입니다!</t>
+		</g>
+		<t id="not_enough_houses">부족이 성장하려면 <font color="#B">더 많은 집</font>이 필요합니다!</t>
+		<t id="not_enough_happy">당신의 부족이 <font color="#B">불행</font> 때문에 성장할 수 없습니다!</t>
+		<t id="route_cancelled">[::res::]:이(가) 고갈되어 <font color="::color::">::name::</font>와(과)의 교역이 중단되었습니다.</t>
+		<t id="great_route_cancelled">[::res::]:이 고갈되어 위대한 무역로가 비활성화 되었습니다.</t>
+		<t id="zone_explored">[Scout]이 새로운 지역을 탐색했습니다!</t>
+		<t id="build_finished"><font color="#G">::name::</font> 건설이 완료되었습니다.</t>
+		<t id="territory_under_attack">영토가 <font color="#B">공격받고 있습니다!</font> 지켜 내야 합니다!</t>
+		<t id="units_under_attack">유닛 중 몇몇이 <font color="#B">공격받고 있습니다!</font> 구해 내야 합니다!</t>
+		<t id="zone_lost">당신이 해당 지역의 통제권을 잃었습니다! 땅을 되찾으러 갑시다!</t>
+		<t id="ruin_explored">정찰병이 유적에서 고대의 보물을 발견했습니다. <img src="/r/Money"/><font color="#G">::gold::</font>과 <img src="/r/Lore"/><font color="#G">::lore::</font>를 얻었습니다.</t>
+		<t id="ruin_explored_no_lore">정찰병이 폐허에서 고대금화를 발견했습니다. <img src="/r/Money"/><font color="#G">::gold::</font> 획득.</t>
+		<t id="wreck_scavenged">정찰병이 난파선을 수색했습니다. <img src="/r/Wood"/><font color="#G">::wood::</font> 와 <img src="/r/Money"/><font color="#G">::gold::</font>를 얻었습니다.</t>
+		<t id="brokenHouse_visited">정찰병이 폐가에서 약간의 보물을 발견했습니다. <img src="/r/Wood"/><font color="#G">::wood::</font>와 <img src="/r/Money"/><font color="#G">::gold::</font>을 얻었습니다.</t>
+		<t id="fame_player_reached_title"><font color="::color::">::name::</font>이(가) 명성을 쌓아 <font color="#G">::title::</font> 칭호를 얻었습니다!</t>
+		<t id="contact_faction"><font color="::color::">::name::당신은 </font>와(과) 조우했습니다. 그들을 어떻게 대하겠습니까?</t>
+		<t id="contact_player">당신은 ::the_clan_of_the_animal::의 지도자, <font color="::color::">::name::</font>와 조우했습니다.</t>
+		<t id="wyvern_defeated">와이번이 쓰러졌습니다! 당신은 ::resList::을 얻었습니다.</t>
+		<t id="wyvern_defeated_no_fame">와이번을 쓰러뜨렸습니다!</t>
+		<t id="wyvern_defeated_by">강대한 와이번이 <font color="::color::">::name::</font>에 의해 쓰러졌습니다!</t>
+		<t id="beware"><font color="#B">주의:</font></t>
+		<t id="beware_under_attack">공격받고 있습니다!</t>
+		<t id="beware_ally_under_attack">아군이 공격받고 있습니다!</t>
+		<t id="food_maxed">더 이상  <img src="/r/Food"/>식량을 <font color="#R">저장할 수 없습니다!</font> 더 많은 [FoodSilo]를 지으십시오.</t>
+		<t id="faction_defeated"><font color="::color::">::name::</font>이(가) 패배했습니다!</t>
+		<t id="faction_defeated_res"><font color="::color::">::name::</font>이(가) 패배했습니다! 당신은 ::resList::을 얻었습니다.</t>
+		<t id="faction_conceded"><font color="::color::">::name::</font>이(가) 패배를 인정했습니다!</t>
+		<t id="faction_defeated_by"><font color="::color::">::name::</font>의 부족이 <font color="::byColor::">::by::</font>에 의해 무너졌습니다!</t>
+		<t id="faction_defeated_by_res"><font color="::color::">::name::</font>의 부족이 <font color="::byColor::">::by::</font>에 의해 무너졌습니다! 당신은 ::resList::을 얻었습니다.</t>
+		<t id="giants_friends"><font color="::color::">::name::</font>은 이제 당신의 친구입니다! [GiantHero]이 당신의 부족에 가세하여 타운홀에서 명령을 기다리고 있습니다!</t>
+		<t id="giants_friends_with"><font color="::color::">::name::</font>이(가) <font color="::byColor::">::by::</font>와 친구가 되었습니다! 그는 이 동맹을 통해 어마어마한 힘을 얻었습니다!</t>
+		<t id="myrk_attack">[Myrkalfar]가 <font color="::color::">::name::</font>에 대한 습격을 개시했습니다.</t>
+		<t id="friend_no_attack">[Myrkalfar]와 친구가 되었습니다. 그들은 더 이상 당신을 공격하지 않을 것입니다.</t>
+		<t id="lost_align">당신의 공격이 <font color="::color::">::name::</font>와(과)의 <font color="#B">관계를 악화시켰습니다</font>!</t>
+		<t id="scout_hurt">[Scout]이 새로운 지역을 탐험하던 도중 부상을 입었습니다.</t>
+		<t id="scout_die">[Scout]이 새로운 지역을 탐험하던 도중 <font color="#R">죽었습니다</font>.</t>
+		<t id="victory_zone_discovered">당신이 <font color="#G">::name::</font>을(를) 발견했습니다. 승리를 달성하기 위해 차지하십시오 (당신은 <img src="/r/Fame"/><font color="#F">::fame::</font>을 얻었습니다).</t>
+		<t id="victory_zone_discovered_no_fame">당신이 <font color="#G">::name::</font>을(를) 발견했습니다. 승리를 달성하기 위해 차지하십시오.</t>
+		<t id="victory_zone_discovered_by"><font color="::color::">::name::</font>이(가) <font color="#G">::bname::</font>을(를) 발견했습니다! 승리를 달성하기 위해 차지합시다.</t>
+		<t id="victory_zone_discovered_nowin">당신이 <font color="#G">::name::</font>을 발견했습니다. 이 땅은 당신이 승리를 달성하는데 도움이 될 것입니다 (당신은 <img src="/r/Fame"/><font color="#F">::fame::</font>을 얻었습니다).</t>
+		<t id="victory_zone_discovered_nowin_nofame">당신이 <font color="#G">::name::</font>을 발견했습니다.</t>
+		<t id="victory_zone_discovered_by_nowin"><font color="::color::">::name::</font>이(가) <font color="#G">::bname::</font>을 발견했습니다! 이 땅은 당신이 승리를 달성하는데 도움이 될 것입니다.</t>
+		<t id="victory_zone_discovered_by_nowin_nofame"><font color="::color::">::name::</font> 이(가) <font color="#G">::bname::</font>을 발견했습니다!</t>
+		<t id="volcan_discovered">당신이 <font color="#G">::name::</font>을 발견했습니다! (당신은 <img src="/r/Fame"/><font color="#F">::fame::</font>을 얻었습니다).</t>
+		<t id="volcan_discovered_no_fame">당신이 <font color="#G">::name::</font>을 발견했습니다!</t>
+		<t id="volcan_discovered_by"><font color="::color::">::name::</font>이(가) <font color="#G">::bname::</font>을 발견했습니다!</t>
+		<t id="waiting_lore">새로운 지식을 습득할 수 있는 충분한 [Lore]가 모였습니다.</t>
+		<t id="new_year">축하합니다! 당신의 부족이 <font color="#G">새해</font>를 맞이했습니다!</t>
+		<t id="player_unlocked_blessing"><font color="::color::">::name::</font>이(가) ::blessing::을 얻었습니다! ::count:: 더 얻으면 그가 승리할 것입니다!</t>
+		<g id="player_blessing_count">
+			<t _id="three">세개</t>
+			<t _id="two">두개</t>
+			<t _id="one">한개</t>
+		</g>
+		<t id="zone_explored_sailors">[Sailor]들이 새로운 지역의 탐험을 완료했습니다!</t>
+		<t id="prescience_ability_ready">[::ability_name::]를 시전할 수 있을만큼 [Prescience]가 충분합니다.</t>
+		<t id="camp_destroyed"><font color="#R">::bname::</font>를 파괴하고 ::resList::을 얻었습니다.</t>
+		<t id="bonus_colonize">::bname::을 점령하고 ::resList::을 얻었습니다.</t>
+		<t id="yggdrasil_colonize_start"><font color="::color::">::name::</font>이(가) 위그드라실을 점령하기 시작했습니다! 서둘러서 그를 저지해야 합니다!</t>
+		<t id="trading_step"><font color="::color::">::name::</font>이(가) 이미 <img src="/r/Money"/><font color="#B">::amount::</font>을 생산했습니다!</t>
+		<t id="trading_step_prestige"><font color="::color::">::name::</font>이(가) <img src="/r/Prestige"/><font color="#B">::amount::</font>에 도달했습니다!</t>
+		<t id="trading_step_prestige_owner">당신이 <img src="/r/Prestige"/><font color="#G">::amount::</font>에 도달했습니다! 새로운 재물들이 오고 있습니다!</t>
+		<t id="altar_built"><font color="::color::">::name::</font>이(가) [Temple]을 건설했습니다!</t>
+		<t id="lighthouse_built"><font color="::color::">::name::</font>이(가) [Lighthouse]를 건설했습니다!</t>
+		<t id="forged_part"><font color="::color::">::name::</font>이(가) 오딘의 검의 <font color="#R">::part::</font> 단조를 마쳤습니다!</t>
+		<t id="fame_step"><font color="::color::">::name::</font>이(가) <img src="/r/Fame"/><font color="#B">::amount::</font>에 도달했습니다!</t>
+		<t id="age_step">시그니가 성장했습니다!</t>
+		<t id="snake_hero_cooldown">이제 다시 [ScorchedEarth]를 사용할 수 있습니다</t>
+		<t id="wolf_hero_cooldown">이제 다시 [Dominion]을 사용할 수 있습니다</t>
+		<t id="mercenaries_cooldown">이제 다시 [Mercenaries]을 이제 호출할 수 있습니다</t>
+		<t id="place_control"><font color="::color::">::name::</font>이(가) 방금 ::bname::을 점령했습니다!</t>
+		<t id="incoming_raid">용병선이 당신 인근의 해안에서 발견되었습니다! 습격에 대비하십시오!</t>
+		<t id="incoming_raid_other">용병선이 인근 해안에서 발견되었습니다.</t>
+		<t id="incoming_raid_giant">[Giant]선이 당신 인근의 해안에서 발견되었습니다! 습격에 대비하십시오!</t>
+		<t id="incoming_raid_other_giant">[Giant]선이 인근 해안에서 발견되었습니다.</t>
+		<t id="ally_trade"><font color="::color::">::name::</font>이(가) 당신과의 [::res::] 교역을 시작했습니다!</t>
+		<t id="ally_trade_off"><font color="::color::">::name::</font>이(가) 당신과의 [::res::] 교역을 중단했습니다.</t>
+		<t id="ally_started_feast"><font color="::color::">::name::</font>이(가) 축제를 개최했습니다.</t>
+		<t id="ally_started_kraken_feast"><font color="::color::">::name::</font>이(가) 크라켄을 위한 축제를 개최했습니다.</t>
+		<t id="got_transfer_zone"><font color="::color::">::name::</font>이(가) 한 지역의 소유권을 당신에게 양도했습니다.</t>
+		<t id="ally_under_attack">아군, <font color="::allyColor::">::allyName::</font>이(가) <font color="::color::">::name::</font>에게 공격받고 있습니다! 그가 당신의 도움을 필요로 할지도 모릅니다!</t>
+		<t id="mercenary_loot">[Mercenary]들이 <img src="/r/::r::"/>::q::을(를) 약탈했습니다.</t>
+		<t id="signy_loot"> [WarchiefSnake]들이 : <img src="/r/::r::"/>::q::을(를) 약탈했습니다.</t>
+		<t id="vedrfolnir_healed">[Vedrfolnir]가 치료되었습니다! 당신이 노스가드를 탐험하는데 도움을 줄 것입니다. 당신은 <img src="/r/Lore"/><font color="#G">::lore::</font>를 습득했습니다.</t>
+		<t id="vedrfolnir_healed_no_lore">[Vedrfolnir]가 치료되었습니다! 당신이 노스가드를 탐험하는데 도움을 줄 것입니다.</t>
+		<t id="vedrfolnir_explored">[Vedrfolnir]가 새로운 지역을 드러냈습니다!</t>
+		<t id="vedrfolnir_left">[Vedrfolnir]가 노스가드를 떠납니다!</t>
+		<t id="prestige_drakkar">위대한 무역로로부터 배가 도착했습니다. ::res1::, ::res2::과 ::res3::을(를) 얻었습니다.</t>
+		<t id="prestige_drakkar_no_lore">위대한 무역로로부터 배가 도착했습니다. ::res1:: 과 ::res2::을(를) 얻었습니다.</t>
+		<t id="ancient_grave">[AncientGraveyard]에 대해 공부하여 마침내 ::nb:: [SpecterWarrior]들을 소환할 수 있게 되었습니다.</t>
+		<t id="free_feast">무료로 축제를 개최할 수 있습니다.</t>
+		<t id="free_tower_upgrade">무료로 [WatchTower]를 업그레이드 할 수 있습니다.</t>
+		<t id="free_sheeps_bonus">::sheep_count:: 새로운 [Sheep] 획득!</t>
+		<t id="free_zone_upgrade">You've gained a free zone development.</t>
+		<t id="slaves_revolution">[Slave]들의 수가 다른 유닛들의 수를 추월했습니다! 반란이 임박했습니다!</t>
+		<t id="no_blood">[Blood]가 없어 부족이 불행에 빠졌습니다. 인신 공양 하여 신의 총애를 얻으십시오!</t>
+		<t id="tool_upgraded">[::unit_id::]의 도구가 개량되었습니다.</t>
+		<t id="weapon_upgraded">[::unit_id::]의 무기가 개량되었습니다.</t>
+		<t id="my_relic_forged">유물이 단조되었습니다: [::relic_name::].</t>
+		<t id="relic_forged"><font color="::color::">::name::</font>이(가) 유물을 단조했습니다: [::relic_name::].</t>
+		<t id="ancient_spirit_attack"><font color="::color::">::name::</font> 가 [SpecterWarrior]를 당신의 지역에 보냈습니다!</t>
+		<t id="kraken_me_attacked">크라켄이 다신의 [::port_name::]중 하나를 공격했습니다. 부두가 파손되었습니다. 빨리 수리하십시오.</t>
+		<t id="kraken_other_attacked">크라켄이 <font color="::color::">::player_name::</font>의 [::port_name::]중 하나를 공격했습니다.</t>
+		<t id="kraken_other_attacked_unknown">알수 없는 부족이 크라켄 공격을 받았습니다.</t>
+		<t id="supply_drakkar">보급선이 본토에서 도착했습니다. ::res:: 획득.</t>
+		<t id="elevation">::num_specter:: 의 주민이 [SpecterWarrior]로 변했습니다!</t>
+		<t id="giant_attack">[GiantFire]가 우리 영토로 진격중입니다!</t>
+		<t id="giant_attacks">::num_giant:: [GiantFire]가 우리 영토로 진격중입니다!</t>
+		<t id="frozen_army">얼어 붙은 시체의 군대가 우리를 향해 진격하고 있습니다!</t>
+		<t id="fame_rank_other"><font color="::color::">::name::</font> 가 첫번째 [Fame] 순위입니다! 보트로 ::res:: 를 얻게됩니다.</t>
+		<t id="fame_rank_owner">당신이 첫번째 [Fame] 순위입니다! ::res:: 가 보트로 곧 도착합니다!</t>
+		<t id="fame_rank_boat">보트가 당신의 현상금을 가져 왔습니다.</t>
+		<t id="no_beach_to_accost">점령된 해변 영토가 없으면 보트가 도착하지 않습니다.</t>
+		<t id="ancient_battleground_spawn">The ancient spirits revealed a [AncientBattleground]. You will find one of [OxHero]'s [Artifact] there.</t>
+		<t id="ancient_battleground_scavenged">You have found [::item::] in the remains of the [AncientBattleground]!</t>
+	</g>
+	<g id="endgame_event">
+		<t id="day">::value::일</t>
+		<t id="new_player"><font color="::color::">::name::</font>이(가) 노스가드의 해변에 상륙했습니다!</t>
+		<t id="colonize"><font color="::color::">::name::</font>이(가) 새로운 지역을 점령했습니다.</t>
+		<t id="uncolonize"><font color="::color::">::name::</font>이(가) 지역을 잃었습니다.</t>
+		<t id="ruin_explore"><font color="::color::">::name::</font>이(가) ::bname:: 탐험을 완료했습니다.</t>
+		<t id="fametitle"><font color="::color::">::name::</font>이(가) 명성을 쌓아 <font color="#G">::title::</font> 칭호를 얻었습니다!</t>
+		<t id="mapevent">노스가드의 새로운 이벤트: <font color="#B">::name::</font></t>
+		<t id="defeat"><font color="::color::">::name::</font>이(가) 패배했습니다!</t>
+		<t id="victory"><font color="::color::">::name::</font>이(가) 노스가드의 왕이 되었습니다!</t>
+		<t id="conquest_victory"><font color="::color::">::name::</font> 가 승리하였습니다!</t>
+		<t id="attackedByFoes"><font color="::color::">::name::</font>이(가) 공격받고 있습니다.</t>
+		<t id="attackedByFaction"><font color="::color::">::name::</font>이(가) <font color="::colorBy::">::nameBy::</font>에게 공격받고 있습니다.</t>
+		<t id="transferZone"><font color="::color::">::name::</font>이(가) <font color="::colorTo::">::nameTo::</font>에게 지역을 양도했습니다.</t>
+	</g>
+	<g id="title">
+		<t id="campaign">캠페인</t>
+		<t id="multiplayer">멀티 플레이</t>
+		<t id="conquest">정복 게임</t>
+		<t id="new_game">싱글 플레이</t>
+		<t id="load_game">게임 불러오기</t>
+		<t id="profile">프로필</t>
+		<t id="options">설정</t>
+		<t id="game_replay">리플레이 보기</t>
+		<t id="exit">게임 종료</t>
+		<t id="back">뒤로</t>
+		<t id="accept">게임 시작</t>
+		<t id="new_version">패치 노트</t>
+		<t id="soon">곧 찾아옵니다</t>
+		<t id="available">지금 이용 가능</t>
+		<t id="buy">지금 구입</t>
+		<t id="clans_bonus">시작 보너스:</t>
+		<t id="clans_fame">명성 보너스:</t>
+		<t id="clans_bonuses">보너스:</t>
+		<t id="clans_relic">유물:</t>
+		<t id="clan_fame_desc"><font color="#R">::name:::</font> (<img src="/r/Fame"/><font color="#F">::fame::</font> 필요)<br/>::desc::<br/></t>
+		<t id="relic_desc"><font color="#R">::relic_name:::</font><br/>::relic_desc::</t>
+		<t id="statistics">통계</t>
+		<g id="new_ragnarok">
+			<t id="title">라그나로크 업데이트</t>
+			<t id="desc">라그나로크 업데이트는 완전히 새로운 맵, 고유의 이벤트들, 새로운 타일들, 중립 팩션과 몬스터들을 가지고 있습니다!<br/>업데이트는 당신의 부족과 워치프를 위한 특별한 스킬들을 해금할 수 있는 완전히 새로운 군사 경로 시스템을 포함하고 있습니다!</t>
+		</g>
+		<g id="new_update">
+			<t id="christmas_desc">새로운 영구 동토 맵과 축제 장식들을 확인하세요!</t>
+		</g>
+	</g>
+	<g id="multi_menu">
+		<t id="new_game">게임 생성</t>
+		<t id="join">게임 참가</t>
+		<t id="leaderboard">리더보드</t>
+		<t id="profile">플레이어 랭킹</t>
+		<t id="back">메뉴로 돌아가기</t>
+		<t id="bad_leaver">랭크 게임을 떠나셨습니다. ::time:: 뒤 플레이할 수 있습니다.</t>
+		<g id="create_sub">
+			<g id="start_error">
+				<t id="launch_asked">게임 생성이 요청되었습니다. 서버가 응답하기를 기다리는 중입니다.</t>
+				<t id="bad_game_name">게임 이름에서 부적절한 단어가 발견되었습니다. 변경 후 다시 시도해 주십시오.</t>
+				<t id="bad_tags">게임 태그에서 부적절한 단어가 발견되었습니다. 태그를 수정하고 다시 시도해 주십시오.</t>
+				<t id="elo">서버에서 당신의 ::elo::을(를) 불러오는 중...</t>
+				<t id="victories">최소 하나의 승리 조건을 선택해 주십시오.</t>
+			</g>
+		</g>
+		<g id="join_sub">
+			<t id="game_name">이름</t>
+			<t id="game_mode">모드</t>
+			<t id="average_elo">평균 ::elo:::</t>
+		</g>
+		<g id="leaderboard_sub">
+			<t id="top_rank">탑 랭크 플레이어</t>
+			<t id="current_rank">당신의 랭크</t>
+			<t id="win_rate">승률</t>
+			<t id="not_ranked">리더보드에 기록되려면 랭크 게임을 플레이하십시오</t>
+			<t id="banned">당신은 현재 리더보드에서 밴 당하셨습니다.<br/>더 많은 정보를 원하신다면 저희에게 연락하여 주십시오.</t>
+		</g>
+		<g id="profile_sub">
+			<t id="title">플레이어 랭킹</t>
+			<t id="match_played">플레이한 매치 수: ::nb::</t>
+			<t id="win_rate">승률: ::nb::%</t>
+			<t id="history">매치 기록</t>
+			<t id="flavor">마지막 ::nb:: 게임 바꾸기</t>
+			<t id="clan">::clan:: 부족</t>
+			<t id="gameMode">Duel|Free For All|2V2|3V3|2V2V2|4V4|2V2V2V2</t>
+			<t id="new_season_title">::name:: 시즌에 오신 걸 환영합니다!</t>
+			<t id="new_season_desc">::name:: 시즌은 이제 종료되었습니다. 리더보드 위의 당신의 자리를 위해 싸우세요! ::gloryPoints::는 리셋되었습니다. 이제 다음 메이저 업데이트 때까지 새로운 시즌이 열립니다.</t>
+			<t id="current_season">::nb:: 시즌: ::name::</t>
+			<t id="prev_season">이전 시즌</t>
+			<t id="next_season">다음 시즌</t>
+			<t id="rank">랭크 ::nb::</t>
+		</g>
+	</g>
+	<g id="campaign">
+		<t id="back">메뉴로 돌아가기</t>
+		<t id="chapter">챕터 ::x::</t>
+		<t id="act">액트 ::x::</t>
+		<t id="cinematic_play">플레이</t>
+		<t id="cinematic_locked">잠김</t>
+		<t id="cinematic_act_ending">액트 엔딩</t>
+		<t id="cinematic_prologue">서막</t>
+		<t id="cinematic_epilogue">종장</t>
+		<t id="main_objectives">목표</t>
+		<t id="bonus">보너스</t>
+		<t id="bonus_objectives">보너스 목표</t>
+		<t id="bonus_hidden">보너스 목표들은 해당 챕터를 한 번 완료하면 공개됩니다.</t>
+		<t id="select_bannerman">기수를 선택합니다</t>
+		<t id="change_bannerman">기수를 변경합니다</t>
+		<t id="skip">건너뛰기 ></t>
+		<t id="allied_banner">동맹</t>
+		<t id="no_build">이 챕터에서 이용할 수 없는 건물</t>
+		<t id="all_bonuses_unlocked">축하합니다! 이제 싱글 플레이 및 멀티 플레이 모드에서 스토리 모드 영웅들을 워치프로 사용할 수 있습니다!</t>
+	</g>
+	<g id="conquest">
+		<g id="menu">
+			<t id="continue_game">계속하기</t>
+			<t id="load_conquest">정복 불러오기</t>
+			<t id="new_game">새 정복</t>
+			<t id="invite">친구 초대</t>
+			<t id="leave">그룹 나가기</t>
+			<t id="back">메뉴</t>
+			<t id="joined">::playerName::에 합류하였습니다.</t>
+			<t id="friend_joined">::playerName:: 초대를 수락했습니다.</t>
+			<t id="friend_left">::playerName:: 가 나갔습니다.</t>
+			<t id="conquest_solo">솔로</t>
+			<t id="conquest_coop">::playerName:: 협동</t>
+			<t id="ready_battle">::playerName:: 준비완료 ::battleName::.</t>
+			<t id="ready_conquest">::playerName:: 새 정복 준비 완료.</t>
+			<t id="start_battle">"::battleName::" 시작하기</t>
+			<t id="player_host">호스트 변경됨: ::serverName::</t>
+			<g id="new_conquest">
+				<t id="title">새 정복</t>
+				<t id="params">파라메터</t>
+				<t id="choose_clan">부족 선택</t>
+				<t id="transfer_leadership">방장 변경</t>
+				<t id="difficulty_recap">난이도: ::difficultyName::</t>
+				<t id="same_colors">모든 플레이어는 서로 다른 색상이어야 합니다.</t>
+			</g>
+			<g id="load">
+				<t id="name_solo">정복 ::clanName::</t>
+				<t id="name_coop">정복 ::clanName:: - ::clanName2::</t>
+				<t id="battles_done">::nb:: 전투 완료</t>
+				<t id="finished">완료</t>
+			</g>
+		</g>
+		<t id="bonus">정복 보너스</t>
+		<g id="notify">
+			<t id="bonus_homeland">[Recruits] 획득 ::num_villager:: [Villager], ::num_pop:: 최대 [Population]  ::num_happy:: [Happy].</t>
+		</g>
+		<g id="map">
+			<t id="rewards">보너스</t>
+			<t id="special_rules">특별 규칙</t>
+			<t id="no_rule">특별 규칙 없음</t>
+			<t id="defeat_time_title">시간 제한</t>
+			<t id="defeat_time_desc">::nb::년 안에 승리해야함.</t>
+			<t id="victory_conditions">승리 조건</t>
+			<t id="bonuses">보너스</t>
+			<t id="start">시작</t>
+			<t id="continueBattle">계속하기</t>
+			<t id="button_start_locked_tip">이전 임무 중 하나를 먼저 완료하십시오.</t>
+			<t id="button_start_select_reward_tip">보너스를 선택해야합니다.</t>
+			<t id="button_start_completed_tip">이미 이 미션을 완료했습니다.</t>
+			<t id="team_ai">인공지능</t>
+			<t id="team_you">플레이어</t>
+			<t id="chosen_by">::playerName:: 선택</t>
+			<t id="chosen_by_you">플레이어 선택</t>
+			<t id="useless_bonus">이 보너스는 부족에 쓸모가 없습니다</t>
+			<t id="recover">이전 게임 재접속</t>
+			<t id="overwrite_save">진행중인 게임이 있습니다. 삭제하고이 전투를 다시 시작 하시겠습니까?</t>
+			<t id="finish_battle_title">축하합니다!</t>
+			<t id="finish_battle_desc"> 정복을 위해 이 보너스가 잠금 해제됩니다.</t>
+			<t id="finish_conquest_title">축하합니다!</t>
+			<t id="finish_conquest_desc">::theClanoftheName::을 (를) 사용하여 Conquest 모드를 처음 완료했습니다.</t>
+			<t id="finish_conquest_th">귀하의 위대한 행동을 위해 [TownHall]에 새로운 모습을 부여했습니다.</t>
+			<t id="fixed_seed">이 전투를 시작할 때마다 세대가 동일합니다.</t>
+			<t id="change_seed">이 전투를 시작할 때마다 세대가 변경됩니다.</t>
+			<g id="host_choice">
+				<t id="eu">유럽</t>
+				<t id="na">북미</t>
+				<t id="cn">짱깨</t>
+				<t id="p2p">P2P - ::playerName::</t>
+			</g>
+		</g>
+		<g id="ui">
+			<t id="confirm_concede">당신이 떠나면, 당신과 당신의 팀원은 게임을 패배 할 것입니다. 나가시겠습니까?</t>
+			<t id="return_to_conquest">정복 맵으로 돌아가기</t>
+			<t id="confirm_exit_player">그룹을 탈퇴하고 정복 모드를 종료 하시겠습니까?</t>
+			<t id="scorched_earth_desc_alt">어떤 구역이든 무제한으로 불태울 수 있습니다.<br/>구역 연소 : -::v1:: 생산물, 뱀부족 유닛과 건물 +::v2:: 공격. 연소 진행중에 방어도를 ::v3::까지 올리십시오.</t>
+			<t id="bifrost_confirm_colonize">[BifrostLore]를 점령한 이후, 당신의 [Lore]는 지식의 잠금을 해제하지 않고 활성화 하는데 사용될 것입니다.<br/><br/>[BifrostLore]를 점령하시겠습까?</t>
+		</g>
+	</g>
+	<g id="generation_quotes">
+		<t _id="sculptingislandterrain">섬의 지형을 조각하는 중...</t>
+		<t _id="generatingmountains">산맥을 형성시키는 중...</t>
+		<t _id="carvingicylakes">얼음 호수를 깎는 중...</t>
+		<t _id="growingforests">숲을 성장시키는 중...</t>
+		<t _id="spawningunfriendlycreatures">적대적인 생물을 소환시키는 중...</t>
+		<t _id="almostready">거의 준비되었습니다!</t>
+	</g>
+	<g id="map_loading_quotes">
+		<t _id="locatingisland">섬 위치 찾는 중...</t>
+		<t _id="headingtotownhall">타운홀로 향하는 중...</t>
+		<t _id="almostready">거의 준비되었습니다!</t>
+	</g>
+	<g id="client_loading_quotes">
+		<t id="waiting">서버를 기다리는 중...</t>
+		<t id="ready">거의 준비 되었습니다!</t>
+	</g>
+	<g id="tuto">
+		<t id="build">
+			<font color="#G">건설</font> 버튼을 클릭해 건물을 건설하십시오.
+			지역의 아무 장소나 선택하여 건물을 배치하십시오.
+		</t>
+		<t id="if_house">
+			<font color="#G">건설</font>을 클릭해 다음 건물을 건설하십시오. [Wood]를 생산하기 위해 <font color="#R">나무꾼 오두막</font>을 선택하거나 새로운 지역을 발견하기 위해 <font color="#R">정찰병 막사</font>를 선택하십시오.
+		</t>
+		<t id="click_villager">
+			건물이 준비되었습니다! [Villager]을 클릭하여 선택하십시오.
+			연속 클릭하면 해당 지역의 같은 직업을 가진 <font color="#G">모든 유닛들</font>을 선택할 수 있습니다.
+		</t>
+		<t id="recruit_wood">
+			유닛을 선택하고 <font color="#G">나무꾼의 산장</font>을 마우스 오른쪽 버튼으로 클릭하면 [Villager]이 [Woodcutter]으로 바뀌게 됩니다. 여러 번 마우스 오른쪽 버튼을 클릭하여 여러 번 명령할 수 있습니다.
+		</t>
+		<t id="recruit_scout">
+			유닛을 선택하고 <font color="#G">정찰병 막사</font>에 우클릭하여 [Villager]을 [Scout]으로 전환시키십시오.
+		</t>
+		<t id="need_scout">
+			노스가드를 탐험하려면 [Scout]이 필요합니다.
+			<font color="#G">정찰병 막사</font>를 짓고 당신의 [Villager] 중 하나를 [Scout]으로 전환시키십시오.
+		</t>
+		<t id="need_wood">
+			[Wood]를 생산하기 위해선 [Woodcutter]이 필요합니다.
+			<font color="#G">나무꾼의 오두막</font>을 짓고 당신의 [Villager] 중 하나를 나무꾼으로 전환시키십시오.
+		</t>
+		<t id="wait_discover">
+			[Scout]이 새로운 지역을 정찰할 것입니다.
+			[Scout]이 지역의 정찰을 마칠 때까지 기다려 주십시오.
+		</t>
+		<t id="recruit_warrior">
+			이 새로운 지역은 적에 의해 방어되고 있습니다! <font color="#G">$build(::building::)</font>를 짓고 당신의 [Villager] 중 하나를 [::unit::](으)로 전환하십시오.
+		</t>
+		<t id="attack">
+			[::military_unit::]을(를) 선택하고 적이 차지하고 있는 지역을 우클릭해 그들을 공격하십시오!
+		</t>
+		<t id="colonize">
+			영역을 확장하기 위해선 [Food]을 사용해 새로운 지역을 <font color="#G">점령</font>해야 합니다.
+			지역을 클릭하고 [Food]을 들여서 점령하십시오..
+		</t>
+		<t id="end">
+			점령된 지역엔 건물들을 건설할 수 있습니다.
+			노스가드의 혹독한 겨울에서 생존하려면 충분한 [Food]과 [Wood]를 비축해 두십시오.
+		</t>
+		<t id="happy">
+			[Happy]은 다른 무엇보다 중요합니다. 0 아래로 떨어지지 않게 하십시오.
+			[Happy]은 당신이 자동으로 새 주민을 얻게 해주며, 수치가 증가할수록 새 주민을 얻는 속도를 앞당겨줍니다.
+			가능한 한 높게 유지하십시오.
+		</t>
+	</g>
+	<g id="tuto_pad">
+		<t id="build">
+			Select <font color="#G">Zone Actions</font> then <font color="#G">Build Menu</font> to construct a building. Select any empty spot in the area to place the building.
+		</t>
+		<t id="if_house">
+			Select <font color="#G">Zone Actions</font> to construct another building. Select either a <font color="#R">Woodcutter's Lodge</font> to produce [Wood] or a <font color="#R">Scout Camp</font> to discover new areas.
+		</t>
+		<t id="recruit_wood">
+			Move to your <font color="#G">Woodcutter's Lodge</font> and use <font color="#G">Assign</font> to turn your [Villager]s into [Woodcutter]s.
+		</t>
+		<t id="recruit_scout">
+			Move to your <font color="#G">Scout Camp</font> and use <font color="#G">Assign</font> to turn your [Villager]s into [Scout]s.
+		</t>
+		<t id="recruit_warrior">
+			This new area is defended by enemies! Build a <font color="#G">$build(::building::)</font> in the Military Buildings section and turn one of your [Villager]s into a [::unit::].
+		</t>
+		<t id="attack">
+			Hold <font color="#G">Armies</font> button, send your [::military_unit::] to the area occupied by foes to attack them!
+		</t>
+		<t id="colonize">
+			To expand your territory, you need to <font color="#G">colonize</font> the new area using [Food]. Move to the empty area and colonize it.
+		</t>
+	</g>
+	<g id="events">
+		<t id="rats_lost_food">쥐 떼가 창궐해 당신의 <img src="/r/Food"/><font color="#B">::count::</font>을 털어갔습니다! [FoodSilo]을 더 지어야 합니다!</t>
+		<t id="rats_sickness">쥐 떼가 질병을 퍼뜨렸습니다. <font color="#B">::count::</font> 명의 부족원이 <font color="#B">sick</font> 들었습니다!</t>
+		<t id="rats_protected">곡창이 쥐 창궐로부터 당신의 식량을 지켜줬습니다!</t>
+		<t id="earthquake">지진에 의해 건물 <font color="#B">damaged ::count:: </font> 채가 손상됐습니다. 서둘러 수리해야 합니다!</t>
+		<t id="resourceGiven">잘했습니다!  ::nbRes:: [::res::]은(는) 스반에게 큰 도움이 될 것입니다. 당신은 ::fame:: [Fame]을 얻었고 다음 요청까지 [Happy] 보너스를 받습니다.</t>
+		<t id="resourceFailed">[::res::](으)로 스반에게 도움을 주는데 실패했습니다!</t>
+		<t id="frozensea_dragon">[Slave]들을 구매할 수 없습니다</t>
+		<t id="frozensea_raven">[Mercenarie]들을 고용할 수 없습니다</t>
+		<t id="kraken_announce">[FutureSight] reveals a [::eventName::] event is coming!</t>
+		<t id="kraken_tooltip">Event revealed thanks to [FutureSight]</t>
+	</g>
+	<g id="network">
+		<t id="elo">Glory Points</t>
+		<t id="elo_shortcut">GP</t>
+		<t id="multi_menu">멀티플레이</t>
+		<t id="multi_title">멀티플레이 게임</t>
+		<t id="multi_create">멀티플레이 게임 만들기</t>
+		<t id="multi_load">멀티플레이 게임 불러오기</t>
+		<t id="multi_info_title">게임 정보</t>
+		<t id="no_game_found">현재 이용 가능한 게임이 없습니다.</t>
+		<t id="could_not_join">게임에 참가할 수 없습니다.</t>
+		<t id="owner_has_quit">호스트가 떠났습니다.</t>
+		<t id="confirm_kick_player">::name::을(를) 게임에서 제외하시겠습니까?</t>
+		<t id="confirm_exit_player">로비에서 나가시겠습니까?</t>
+		<t id="create_game">게임 만들기</t>
+		<t id="refresh_list">새로 고침</t>
+		<t id="refreshing">새로 고침 중...</t>
+		<t id="game_name">게임 이름</t>
+		<t id="game_mode">플레이어</t>
+		<t id="game_modes">Duel|Free For All|팀전 2v2|팀전 3v3|팀전 2v2v2|팀전 4v4|팀전 2v2v2v2</t>
+		<t id="game_mode_allies">전체 동맹</t>
+		<t id="game_mode_team">팀</t>
+		<t id="game_generation">맵 생성 방식</t>
+		<t id="game_generation_types">랜덤|밸런스</t>
+		<t id="modes_all">모두</t>
+		<t id="open_game">게임 열기</t>
+		<t id="join_game">게임 참가</t>
+		<t id="joining_game">게임 참가중...</t>
+		<t id="invite">초대하기</t>
+		<t id="invite_error">이런... 게임에 참가하던 도중 에러가 발생했습니다.</t>
+		<t id="exit">나가기</t>
+		<t id="game_visibility">게임 타입</t>
+		<t id="game_visibilities">공개|초대만|랭크</t>
+		<t id="game_visibility_info"><font color="#T">::kind::(</font><font color="::color::">::count::/::max::</font><font color="#T">)</font></t>
+		<t id="game_distance">지역|지방|대륙|전 세계</t>
+		<t id="players">플레이어</t>
+		<t id="options">설정</t>
+		<t id="clan_choice">부족</t>
+		<t id="random_clan">랜덤</t>
+		<t id="player_color">색상</t>
+		<t id="start_game">게임 시작</t>
+		<t id="started_game">게임 시작됨</t>
+		<t id="cant_join_started">이미 시작된 어떤 게임도 참가할 수 없습니다.</t>
+		<t id="waiting_for_players">플레이어 기다리는 중...</t>
+		<t id="waiting_for_teams">잘못된 팀 배분</t>
+		<t id="waiting_for_colors">플레이어 색상 충돌</t>
+		<t id="waiting_for_player">플레이어 기다리는중...</t>
+		<t id="player_ready">준비!</t>
+		<t id="invited_by"><font color="#R">::name::</font>이(가) 멀티플레이 게임에 당신을 초대했습니다. 참가하시겠습니까?</t>
+		<t id="chat">채팅</t>
+		<t id="chat_message">메시지</t>
+		<t id="chat_send_button">보내다</t>
+		<t id="no_steam">멀티플레이 세션에 접속하려면 스팀으로 로그인해야 합니다. 이미 스팀에 연결되어 있다면, 다시 시작하십시오.</t>
+		<t id="team">팀</t>
+		<t id="color">색상</t>
+		<t id="teams">랜덤|팀 1|팀 2|팀 3|팀 4</t>
+		<t id="AIlevel">랜덤|쉬움|보통|어려움</t>
+		<t id="connecting">서버 연결 중...</t>
+		<t id="server_error">서버에 연결하던 도중 에러가 발생했습니다.</t>
+		<t id="client_error">게임 서버 연결에 실패하였습니다.</t>
+		<t id="client_lost">게임 서버와의 연결이 끊어졌습니다. 재시도 중...</t>
+		<t id="retry_button">재시도</t>
+		<t id="host">호스트</t>
+		<t id="slot">열기|AI|닫기</t>
+		<t id="chat_channels">전체|팀</t>
+		<t id="chat_team">팀</t>
+		<t id="tab_cycle">채널을 바꾸려면 TAB 을 누르십시오</t>
+		<t id="rejoin_ranked">이미 진행 중인 랭크 게임이 있습니다.</t>
+		<t id="rejoin_game">최근 게임에 재접속</t>
+		<t id="transfer_ownership">게임 소유권 이전 중...</t>
+		<t id="changing_host">호스트가 게임을 나갔습니다. 호스트 교체 중...</t>
+		<t id="start_counter">::time::초 뒤 게임이 시작됩니다.</t>
+		<t id="game_launch">게임 시작!</t>
+		<t id="start_game_cancel">카운트 다운 중지</t>
+		<t id="start_game_canceled">게임 시작이 중단됨</t>
+		<t id="lobby_full">가득 참</t>
+		<t id="version_mismatch">당신의 게임 버전과 호스트의 게임 버전이 일치하지 않습니다.</t>
+		<t id="player_join"><font color="::color::">::name::</font>이(가) 게임에 참가했습니다.</t>
+		<t id="player_left"><font color="#B"><font color="::color::">::name::</font>이(가) 게임을 떠났습니다.</font></t>
+		<t id="player_disconnected"><font color="#B"><font color="::color::">::name::</font>의 연결이 끊겼습니다.</font></t>
+		<t id="AI_take_control"><font color="#W"><font color="::color::">::name::</font>의 연결이 끊긴지 ::time::분이 경과했습니다. AI가 임시로 부족의 통제권을 가져갑니다.</font></t>
+		<t id="AI_has_control"><font color="#W">AI가 부족의 통제권을 가져갔습니다.</font></t>
+		<t id="add_friend">친구 추가</t>
+		<t id="waiting_friend_answer">답변을 기다리는 중...</t>
+		<t id="friend_invite_time">남은 시간: ::v::초.</t>
+		<t id="server_zone">게임 서버</t>
+		<g id="server_zones_labels">
+			<t id="eu">유럽</t>
+			<t id="na">북미</t>
+			<t id="cn">짱깨</t>
+			<t id="p2p">Peer-to-Peer</t>
+		</g>
+		<g id="leagueKind">
+			<t _id="wood">우드</t>
+			<t _id="stone">스톤</t>
+			<t _id="iron">아이언</t>
+			<t _id="gold">골드</t>
+			<t _id="rimesteel">라임스틸</t>
+		</g>
+		<t id="league">::kind:: 리그</t>
+		<t id="db_timeout">서버가 응답하지 않습니다. 연결을 확인하신 후 다시 시도해주십시오.</t>
+		<t id="db_invite_timeout">랭크 게임에 초대받았지만 서버에서 당신의 랭킹을 검색하는데 실패했습니다.</t>
+		<t id="rematch">::name::이(가) 재시합을 요청합니다.</t>
+		<t id="rematch_yes">재시합 가결</t>
+		<t id="rematch_no">투표 실패</t>
+		<g id="elo_update">
+			<t id="progress">::newElo:: ::pts::</t>
+			<t id="not_long_enough">(게임이 ::nbMinutes::분 이상 지속되어야 합니다.)</t>
+			<t id="not_yet">게임이 종료되면 당신의 랭킹이 업데이트 될 것입니다.</t>
+			<t id="waiting">랭크 업데이트 기다리는 중</t>
+			<t id="error">서버가 응답하지 않습니다. 랭킹을 업데이트하는데 실패했습니다.</t>
+			<t id="league_reached">축하드립니다, 새로운 리그에 도달하셨습니다!</t>
+			<t id="league_demoted">당신의 리그로부터 강등되었습니다...</t>
+			<t id="league_reached1">신들이 당신께 미소짓고 있습니다!</t>
+			<t id="league_reached2">더 높은 리그로 승급하셨습니다!</t>
+			<t id="league_demoted1">신들이 당신을 못마땅히 여깁니다.</t>
+			<t id="league_demoted2">더 낮은 리그로 강등되었습니다.</t>
+		</g>
+		<t id="user_joined">::playerName:: 게임 참여.</t>
+		<t id="user_left">::playerName:: 게임 탈퇴.</t>
+	</g>
+	<g id="pad">
+		<t id="main_menu">Main Menu</t>
+		<t id="game_menus">Menus</t>
+		<t id="zone_actions">Zone Actions</t>
+		<t id="building_actions">::name:: Actions</t>
+		<t id="building_select">Select Building</t>
+		<t id="category_select">Select Category</t>
+		<t id="category_choose">Choose Building Category</t>
+		<t id="action_select">Select Action</t>
+		<t id="action_choose">Choose Action</t>
+		<t id="close_radial_menu">Close</t>
+		<t id="forbidden_action">Forbidden Action.</t>
+		<t id="choose_sacrifice_unit">Choose unit to sacrifice</t>
+		<t id="hero">Hero</t>
+		<t id="buy">Buy</t>
+		<t id="zone_full">Zone is full.</t>
+		<t id="building_repair">Building is being repaired: ::value:: %"</t>
+		<t id="building_damaged">Building is damage.</t>
+		<t id="building_undamaged">Building is undamaged.</t>
+		<t id="building_upgraded">Building is upgraded.</t>
+		<t id="building_cant_upgrade">Can't be upgraded at the moment.</t>
+		<t id="military_group">Military Group ::number::</t>
+		<t id="military_nogroup">Ungrouped Military Units</t>
+		<t id="open_military_group">Military Groups</t>
+		<t id="open_lore_tree">Lore Tree</t>
+		<t id="group_assign">Assign to ::number::</t>
+		<t id="group_unassign">Unassign</t>
+		<t id="tool_upgrade">Improve Tool</t>
+		<t id="choose_category">Choose Category</t>
+		<t id="choose_building">Choose Building</t>
+		<t id="no_sheep">There is no sheep in this area.</t>
+		<t id="zone_upgrade">Develop Area</t>
+		<t id="already_upgraded">Area is already upgraded.</t>
+		<t id="area_not_full">Area is not full.</t>
+		<t id="cancel">Cancel</t>
+		<t id="build">Build</t>
+		<t id="flip">Flip</t>
+		<t id="repair">Repair</t>
+		<t id="activate">Activate</t>
+		<t id="attack">Attack</t>
+		<t id="send_army_group">Send Group ::n::</t>
+		<t id="send_army_all">Send Army</t>
+		<t id="army_group_menu">Armies</t>
+		<t id="abilities_menu">Abilities</t>
+		<t id="use_ability">Use ::name:: </t>
+		<t id="colonize">Colonize Area : <img src="/r/::res::"/><font color="::color::">::cost::</font></t>
+		<t id="explore_area">Explore Area</t>
+		<t id="explore_ruins">Explore Ruins</t>
+		<t id="civil_assist">Civilian assist</t>
+		<t id="civil_move">Move Civilian</t>
+		<t id="retreat_civil">Retreat Civilians</t>
+		<t id="retreat">Retreat Units</t>
+		<t id="target_tower">Target Tower</t>
+		<t id="target_tower_stop">Stop Target Tower</t>
+		<t id="target_units">Target Units</t>
+		<t id="no_event">No Event announced.</t>
+		<t id="no_abilities">No abilities available</t>
+		<t id="ruins_exploring">Currently Exploring...</t>
+		<t id="zone_choose">Choose Area</t>
+		<t id="previous">Previous</t>
+		<t id="next">Next</t>
+		<t id="play_pause">Play/Pause</t>
+		<t id="save_delete">Delete</t>
+		<t id="save_select">Select</t>
+		<t id="start_menu">Press [key] to Start</t>
+		<t id="save_progress">Save in progress</t>
+		<t id="previous_page">Previous page</t>
+		<t id="next_page">Next Page</t>
+		<t id="choose_transfer_ally">Choose an Ally to transfer this area.</t>
+		<t id="focus_warchief">Warchief Focus</t>
+		<t id="ping_team">Ping Team</t>
+		<t id="lobby_kick_player">Remove from lobby</t>
+		<g id="margin">
+			<t id="option_category">Screen</t>
+			<t id="button_label">Margin Settings</t>
+			<t id="desc">Adjust Screen Margin to fit your display.</t>
+			<t id="save_settings">Save Settings</t>
+			<t id="cancel">Cancel</t>
+		</g>
+		<g id="keys_label">
+			<t id="event_focus">Goto Last Event</t>
+			<t id="minimap_display">Toggle Minimap Display</t>
+			<t id="world_info">Toggle World Info</t>
+			<t id="calendar_info">Toggle Calendar Info</t>
+			<t id="camera_move">Camera Move</t>
+			<t id="camera_speed_up">Camera Speed Up</t>
+			<t id="zoom_in_out">Zoom In/Out</t>
+			<t id="townhall_back">Back to Townhall</t>
+			<t id="special_menu">Open Special Menu</t>
+			<t id="game_menu">Open Game Menu</t>
+			<t id="contextual_buttons">Contextual Actions</t>
+			<t id="menu_abilities">(Hold) Display Abilities Actions</t>
+			<t id="menu_armies">(Hold) Display Armies Actions</t>
+			<t id="menu_lore_tree">Display Lore Tree</t>
+			<t id="menu_military_group">Display Military Groups</t>
+		</g>
+	</g>
+</texts>
